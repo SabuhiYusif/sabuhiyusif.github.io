@@ -1,1 +1,3471 @@
-[{"name":"Macarıstan","capitalNames":["Budapeşt"],"gdp":"$178,654M","gdpPerCapita":"$18,439","currency":"Macar forinti","area":"93028.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["macar"],"population":9749763,"imgName":null},{"name":"Mikroneziya","capitalNames":["Palikir"],"gdp":"$404M","gdpPerCapita":"$3,571","currency":"ABŞ dolları","area":"702.0","region":"Okeaniya","subRegion":"Mikroneziya","languages":["İngilis dili"],"population":115021,"imgName":null},{"name":"Qazaxıstan","capitalNames":["Nur-Sultan"],"gdp":"$197,112M","gdpPerCapita":"$10,306","currency":"qazax tengesi","area":"2724900.0","region":"Asiya","subRegion":"Orta Asiya","languages":["qazax","rus"],"population":18754440,"imgName":null},{"name":"Misir","capitalNames":["Qahirə"],"gdp":"$423,145M","gdpPerCapita":"$4,144","currency":"Misir funtu","area":"1002450.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb"],"population":102334403,"imgName":null},{"name":"DR Konqo","capitalNames":["Kinşasa"],"gdp":"$55,351M","gdpPerCapita":"$577","currency":"Konqo frankı","area":"2344858.0","region":"Afrika","subRegion":"Orta Afrika","languages":["Fransız dili","Kikonqo","Linqala","Tşiluba","suahili"],"population":108407721,"imgName":null},{"name":"Beliz","capitalNames":["Belmopan"],"gdp":"$2,492M","gdpPerCapita":"$5,794","currency":"Beliz dolları","area":"22966.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["Beliz Kreol","İngilis dili","ispan dili"],"population":397621,"imgName":null},{"name":"Solomon adaları","capitalNames":["Honiara"],"gdp":"$1,632M","gdpPerCapita":"$2,305","currency":"Solomon adaları dolları","area":"28896.0","region":"Okeaniya","subRegion":"Melaneziya","languages":["İngilis dili"],"population":686878,"imgName":null},{"name":"Barbados","capitalNames":["Bridgetown"],"gdp":"$4,844M","gdpPerCapita":"$17,225","currency":"Barbados dolları","area":"430.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":287371,"imgName":null},{"name":"Çad","capitalNames":["N'Djamena"],"gdp":"$11,780M","gdpPerCapita":"$686","currency":"Mərkəzi Afrika CFA frankı","area":"1284000.0","region":"Afrika","subRegion":"Orta Afrika","languages":["ərəb","Fransız dili"],"population":16425859,"imgName":null},{"name":"Bosniya və Herseqovina","capitalNames":["Sarayevo"],"gdp":"$23,365M","gdpPerCapita":"$6,712","currency":"Bosniya və Herseqovina konvertasiya markası","area":"51209.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["bosniyalı","xorvat","serb"],"population":3280815,"imgName":null},{"name":"Mərkəzi Afrika Respublikası","capitalNames":["Bangui"],"gdp":"$2,517M","gdpPerCapita":"$461","currency":"Mərkəzi Afrika CFA frankı","area":"622984.0","region":"Afrika","subRegion":"Orta Afrika","languages":["Fransız dili","Sanqo"],"population":4829764,"imgName":null},{"name":"Seyşel adaları","capitalNames":["Viktoriya"],"gdp":"$1,457M","gdpPerCapita":"$14,679","currency":"Seyşel rupisi","area":"452.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["Seyşel adaları kreoli","İngilis dili","Fransız dili"],"population":98462,"imgName":null},{"name":"İraq","capitalNames":["Bağdad"],"gdp":"$206,747M","gdpPerCapita":"$4,749","currency":"İraq dinarı","area":"438317.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb","arami","Sorani"],"population":40222503,"imgName":null},{"name":"Hollandiya","capitalNames":["Amsterdam"],"gdp":"$992,854M","gdpPerCapita":"$56,442","currency":"avro","area":"41850.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["holland"],"population":16655799,"imgName":null},{"name":"Bolqarıstan","capitalNames":["Sofiya"],"gdp":"$89,042M","gdpPerCapita":"$13,020","currency":"Bolqar lev","area":"110879.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["bolqar"],"population":6927288,"imgName":null},{"name":"Əlcəzair","capitalNames":["Əlcəzair"],"gdp":"$162,711M","gdpPerCapita":"$3,683","currency":"Əlcəzair dinarı","area":"2381741.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb"],"population":44700000,"imgName":null},{"name":"Kipr","capitalNames":["Nikosiya"],"gdp":"$28,443M","gdpPerCapita":"$31,439","currency":"avro","area":"9251.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["yunan","türk"],"population":1207361,"imgName":null},{"name":"İtaliya","capitalNames":["Roma"],"gdp":"$2,010,339M","gdpPerCapita":"$34,083","currency":"avro","area":"301336.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["italyan"],"population":59554023,"imgName":null},{"name":"Honduras","capitalNames":["Tequsiqalpa"],"gdp":"$28,490M","gdpPerCapita":"$2,816","currency":"Honduras lempirası","area":"112492.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":9904608,"imgName":null},{"name":"Sudan","capitalNames":["Xartum"],"gdp":"$34,326M","gdpPerCapita":"$752","currency":"Sudan funtu","area":"1886068.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb","İngilis dili"],"population":43849269,"imgName":null},{"name":"Niger","capitalNames":["Niamey"],"gdp":"$14,915M","gdpPerCapita":"$591","currency":"Qərbi Afrika CFA frankı","area":"1267000.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":24206636,"imgName":null},{"name":"Qvineya","capitalNames":["Konakri"],"gdp":"$16,092M","gdpPerCapita":"$1,189","currency":"Qvineya frankı","area":"245857.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":13132792,"imgName":null},{"name":"Malta","capitalNames":["Valletta"],"gdp":"$17,764M","gdpPerCapita":"$34,099","currency":"avro","area":"316.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["İngilis dili","maltalı"],"population":525285,"imgName":null},{"name":"Konqo Respublikası","capitalNames":["Brazzavil"],"gdp":"$13,366M","gdpPerCapita":"$2,290","currency":"Mərkəzi Afrika CFA frankı","area":"342000.0","region":"Afrika","subRegion":"Orta Afrika","languages":["Fransız dili","Kikonqo","Linqala"],"population":5657000,"imgName":null},{"name":"İrlandiya","capitalNames":["Dublin"],"gdp":"$529,220M","gdpPerCapita":"$104,589","currency":"avro","area":"70273.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["İngilis dili","irland"],"population":4994724,"imgName":null},{"name":"Argentina","capitalNames":["Buenos Ayres"],"gdp":"$487,227M","gdpPerCapita":"$10,636","currency":"Argentina pesosu","area":"2780400.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["Guaraní","ispan dili"],"population":45376763,"imgName":null},{"name":"Amerika Birləşmiş Ştatları","capitalNames":["Vaşinqton, D.C."],"gdp":"$25,464,500M","gdpPerCapita":"$76,658","currency":"ABŞ dolları","area":"9372610.0","region":"Amerika","subRegion":"Şimali Amerika","languages":["İngilis dili"],"population":329484123,"imgName":null},{"name":"Belçika","capitalNames":["Brüssel"],"gdp":"$581,726M","gdpPerCapita":"$50,015","currency":"avro","area":"30528.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["alman","Fransız dili","holland"],"population":11555997,"imgName":null},{"name":"Gürcüstan","capitalNames":["Tbilisi"],"gdp":"$18,696M","gdpPerCapita":"$5,014","currency":"lari","area":"69700.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["gürcü"],"population":3714000,"imgName":null},{"name":"Liberiya","capitalNames":["Monroviya"],"gdp":"$3,509M","gdpPerCapita":"$676","currency":"Liberiya dolları","area":"111369.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["İngilis dili"],"population":5057677,"imgName":null},{"name":"Venesuela","capitalNames":["Karakas"],"gdp":"$102,084M","gdpPerCapita":"$3,423","currency":"Venesuela bolivarı soberano","area":"916445.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["ispan dili"],"population":28435943,"imgName":null},{"name":"Lixtenşteyn","capitalNames":["Vaduz"],"gdp":"$6,114M","gdpPerCapita":"$156,548","currency":"İsveçrə frankı","area":"160.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["alman"],"population":38137,"imgName":null},{"name":"Myanma","capitalNames":["Naypyidaw"],"gdp":"$65,092M","gdpPerCapita":"$1,210","currency":"Birma kyatı","area":"676578.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["birma"],"population":54409794,"imgName":null},{"name":"Slovakiya","capitalNames":["Bratislava"],"gdp":"$113,440M","gdpPerCapita":"$20,873","currency":"avro","area":"49037.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["slovak"],"population":5458827,"imgName":null},{"name":"Seneqal","capitalNames":["Dakar"],"gdp":"$27,640M","gdpPerCapita":"$1,638","currency":"Qərbi Afrika CFA frankı","area":"196722.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":16743930,"imgName":null},{"name":"Marşal adaları","capitalNames":["Majuro"],"gdp":"$257M","gdpPerCapita":"$6,112","currency":"ABŞ dolları","area":"181.0","region":"Okeaniya","subRegion":"Mikroneziya","languages":["İngilis dili","marşal"],"population":59194,"imgName":null},{"name":"Norveç","capitalNames":["Oslo"],"gdp":"$580,478M","gdpPerCapita":"$106,995","currency":"Norveç kronu","area":"323802.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["Norveç Nynorsk","Norveç bokmal","Sami"],"population":5379475,"imgName":null},{"name":"Kosta Rika","capitalNames":["San Xose"],"gdp":"$64,417M","gdpPerCapita":"$12,436","currency":"Kosta Rika kolonu","area":"51100.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":5094114,"imgName":null},{"name":"Hindistan","capitalNames":["Yeni Dehli"],"gdp":"$3,176,296M","gdpPerCapita":"$2,257","currency":"Hindistan rupisi","area":"3287590.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["İngilis dili","hind","tamil"],"population":1380004385,"imgName":null},{"name":"Avstraliya","capitalNames":["Kanberra"],"gdp":"$1,635,255M","gdpPerCapita":"$63,464","currency":"Avstraliya dolları","area":"7692024.0","region":"Okeaniya","subRegion":"Avstraliya və Yeni Zelandiya","languages":["İngilis dili"],"population":25687041,"imgName":null},{"name":"Anqola","capitalNames":["Luanda"],"gdp":"$75,179M","gdpPerCapita":"$2,179","currency":"Anqola kvantası","area":"1246700.0","region":"Afrika","subRegion":"Orta Afrika","languages":["portuqal"],"population":32866268,"imgName":null},{"name":"Benin","capitalNames":["Porto-Novo"],"gdp":"$17,699M","gdpPerCapita":"$1,362","currency":"Qərbi Afrika CFA frankı","area":"112622.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":12123198,"imgName":null},{"name":"Kamboca","capitalNames":["Phnom Penh"],"gdp":"$26,961M","gdpPerCapita":"$1,625","currency":"Kamboca rieli","area":"181035.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["kxmer"],"population":16718971,"imgName":null},{"name":"Monako","capitalNames":["Monako"],"gdp":"$8,596M","gdpPerCapita":"$234,316","currency":"avro","area":"2.02","region":"Avropa","subRegion":"Qərbi Avropa","languages":["Fransız dili"],"population":39244,"imgName":null},{"name":"Tonqa","capitalNames":["Nuku'alofa"],"gdp":"$470M","gdpPerCapita":"$4,433","currency":"Tonqa paʻanqası","area":"747.0","region":"Okeaniya","subRegion":"Polineziya","languages":["İngilis dili","Tonqa"],"population":105697,"imgName":null},{"name":"İsrail","capitalNames":["Yerusəlim"],"gdp":"$488,527M","gdpPerCapita":"$52,152","currency":"Yeni İsrail şekeli","area":"20770.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb","ivrit"],"population":9216900,"imgName":null},{"name":"Vanuatu","capitalNames":["Port Vila"],"gdp":"$956M","gdpPerCapita":"$2,997","currency":"Vanuatu vatu","area":"12189.0","region":"Okeaniya","subRegion":"Melaneziya","languages":["Bislama","İngilis dili","Fransız dili"],"population":307150,"imgName":null},{"name":"Kuba","capitalNames":["Havana"],"gdp":"$107,352M","gdpPerCapita":"$9,500","currency":"Kubanın konvertasiya oluna bilən pesosu","area":"109884.0","region":"Amerika","subRegion":"Karib dənizi","languages":["ispan dili"],"population":11326616,"imgName":null},{"name":"Botsvana","capitalNames":["Qaborone"],"gdp":"$17,614M","gdpPerCapita":"$6,805","currency":"Botsvana pulası","area":"582000.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["İngilis dili","svana"],"population":2351625,"imgName":null},{"name":"Danimarka","capitalNames":["Kopenhagen"],"gdp":"$395,129M","gdpPerCapita":"$67,274","currency":"Danimarka kronu","area":"43094.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["danimarka"],"population":5831404,"imgName":null},{"name":"Eritreya","capitalNames":["Əsmərə"],"gdp":"$1,982M","gdpPerCapita":"$566","currency":"Eritreya nakfası","area":"117600.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["ərəb","İngilis dili","Tiqrinya"],"population":5352000,"imgName":null},{"name":"Mali","capitalNames":["Bamako"],"gdp":"$19,141M","gdpPerCapita":"$874","currency":"Qərbi Afrika CFA frankı","area":"1240192.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":20250834,"imgName":null},{"name":"Liviya","capitalNames":["Tripoli"],"gdp":"$39,007M","gdpPerCapita":"$5,791","currency":"Liviya dinarı","area":"1759540.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb"],"population":6871287,"imgName":null},{"name":"Tacikistan","capitalNames":["Düşənbə"],"gdp":"$8,746M","gdpPerCapita":"$897","currency":"Tacikistan somonisi","area":"143100.0","region":"Asiya","subRegion":"Orta Asiya","languages":["rus","tacik"],"population":9537642,"imgName":null},{"name":"Ekvador","capitalNames":["Quito"],"gdp":"$106,166M","gdpPerCapita":"$5,965","currency":"ABŞ dolları","area":"276841.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["ispan dili"],"population":17643060,"imgName":null},{"name":"İran","capitalNames":["Tehran"],"gdp":"$1,589,869M","gdpPerCapita":"$18,739","currency":"İran rialı","area":"1648195.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["Fars (Fars)"],"population":83992953,"imgName":null},{"name":"Trinidad və Tobaqo","capitalNames":["İspaniya limanı"],"gdp":"$23,994M","gdpPerCapita":"$15,727","currency":"Trinidad və Tobaqo dolları","area":"5130.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":1399491,"imgName":null},{"name":"Səudiyyə Ərəbistanı","capitalNames":["Ər-Riyad"],"gdp":"$833,541M","gdpPerCapita":"$23,186","currency":"Səudiyyə riyalı","area":"2149690.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":34813867,"imgName":null},{"name":"Tayvan","capitalNames":["Taypey"],"gdp":"$774,728M","gdpPerCapita":"$33,143","currency":"Yeni Tayvan dolları","area":"36193.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["çinli"],"population":23503349,"imgName":null},{"name":"Cənubi Afrika","capitalNames":["Pretoriya","Bloemfontein","Keyptaun"],"gdp":"$418,907M","gdpPerCapita":"$6,965","currency":"Cənubi Afrika randı","area":"1221037.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["Afrikaans","İngilis dili","Cənubi Ndebele","Şimali Soto","Cənubi Soto","Svaz dili","svana","Tsonqa","Venda","Xosa","Zulu"],"population":59308690,"imgName":null},{"name":"Esvatini","capitalNames":["Mbabane"],"gdp":"$4,743M","gdpPerCapita":"$3,978","currency":"Svaz lilangeni","area":"17364.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["İngilis dili","Svaz dili"],"population":1160164,"imgName":null},{"name":"Zimbabve","capitalNames":["Harare"],"gdp":"$28,371M","gdpPerCapita":"$1,774","currency":"Zimbabve dolları","area":"390757.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["Çibarve","İngilis dili","Kalanqa","Xoysan","Ndau","Şimali Ndebele","Chewa","Şona","Sotho","Tonqa","svana","Tsonqa","Venda","Xosa","Zimbabve işarə dili"],"population":14862927,"imgName":null},{"name":"Litva","capitalNames":["Vilnüs"],"gdp":"$70,465M","gdpPerCapita":"$25,112","currency":"avro","area":"65300.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["litva"],"population":2794700,"imgName":null},{"name":"Kamerun","capitalNames":["Yaunde"],"gdp":"$45,391M","gdpPerCapita":"$1,669","currency":"Mərkəzi Afrika CFA frankı","area":"475442.0","region":"Afrika","subRegion":"Orta Afrika","languages":["İngilis dili","Fransız dili"],"population":26545864,"imgName":null},{"name":"Ukrayna","capitalNames":["Kiyev"],"gdp":"$200,086M","gdpPerCapita":"$4,880","currency":"ukrayna qrivnası","area":"603500.0","region":"Avropa","subRegion":"Şərqi Avropa","languages":["ukraynalı"],"population":44134693,"imgName":null},{"name":"Qana","capitalNames":["Akra"],"gdp":"$79,157M","gdpPerCapita":"$2,521","currency":"Qana sedisi","area":"238533.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["İngilis dili"],"population":31072945,"imgName":null},{"name":"Qrenada","capitalNames":["St George's"],"gdp":"$1,115M","gdpPerCapita":"$8,948","currency":"Şərqi Karib dolları","area":"344.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":112519,"imgName":null},{"name":"Cənubi Sudan","capitalNames":["Juba"],"gdp":"$4,659M","gdpPerCapita":"$448","currency":"Cənubi Sudan funtu","area":"619745.0","region":"Afrika","subRegion":"Orta Afrika","languages":["İngilis dili"],"population":11193729,"imgName":null},{"name":"Yamayka","capitalNames":["Kinqston"],"gdp":"$14,658M","gdpPerCapita":"$5,184","currency":"Yamayka dolları","area":"10991.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili","Yamaykalı Patois"],"population":2961161,"imgName":null},{"name":"Şri Lanka","capitalNames":["Şri Jayawardenepura Kotte"],"gdp":"$88,979M","gdpPerCapita":"$4,016","currency":"Şri Lanka rupisi","area":"65610.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["Sinhala","tamil"],"population":21919000,"imgName":null},{"name":"Boliviya","capitalNames":["Sucre"],"gdp":"$40,703M","gdpPerCapita":"$3,370","currency":"Boliviya boliviano","area":"1098581.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["Aymara","Guaraní","Keçua","ispan dili"],"population":11673029,"imgName":null},{"name":"Uruqvay","capitalNames":["Montevideo"],"gdp":"$59,320M","gdpPerCapita":"$17,313","currency":"Uruqvay pesosu","area":"181034.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["ispan dili"],"population":3473727,"imgName":null},{"name":"Qabon","capitalNames":["Librevil"],"gdp":"$20,242M","gdpPerCapita":"$8,646","currency":"Mərkəzi Afrika CFA frankı","area":"267668.0","region":"Afrika","subRegion":"Orta Afrika","languages":["Fransız dili"],"population":2225728,"imgName":null},{"name":"Palau","capitalNames":["Ngerulmud"],"gdp":"$218M","gdpPerCapita":"$12,095","currency":"ABŞ dolları","area":"459.0","region":"Okeaniya","subRegion":"Mikroneziya","languages":["İngilis dili","palauan"],"population":18092,"imgName":null},{"name":"Nauru","capitalNames":["Yaren"],"gdp":"$133M","gdpPerCapita":"$10,647","currency":"Avstraliya dolları","area":"21.0","region":"Okeaniya","subRegion":"Mikroneziya","languages":["İngilis dili","Nauru"],"population":10834,"imgName":null},{"name":"San Marino","capitalNames":["San Marino şəhəri"],"gdp":"$1,543M","gdpPerCapita":"$45,641","currency":"avro","area":"61.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["italyan"],"population":33938,"imgName":null},{"name":"Kanada","capitalNames":["Ottava"],"gdp":"$1,988,336M","gdpPerCapita":"$52,015","currency":"Kanada dolları","area":"9984670.0","region":"Amerika","subRegion":"Şimali Amerika","languages":["İngilis dili","Fransız dili"],"population":38005238,"imgName":null},{"name":"Mavritaniya","capitalNames":["Nuakşot"],"gdp":"$9,892M","gdpPerCapita":"$2,143","currency":"Mavritaniya ouqiyası","area":"1030700.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["ərəb"],"population":4649660,"imgName":null},{"name":"Simali Koreya","capitalNames":["Pxenyan"],"gdp":"$17,365M","gdpPerCapita":"$681","currency":"Şimali Koreya qalib gəldi","area":"120538.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["koreyalı"],"population":25778815,"imgName":null},{"name":"Laos","capitalNames":["Vientiane"],"gdp":"$18,827M","gdpPerCapita":"$2,536","currency":"Lao kip","area":"236800.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["Lao"],"population":7275556,"imgName":null},{"name":"Nikaraqua","capitalNames":["Manaqua"],"gdp":"$14,001M","gdpPerCapita":"$2,044","currency":"Nikaraqua kordobası","area":"130373.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":6624554,"imgName":null},{"name":"Keniya","capitalNames":["Nayrobi"],"gdp":"$110,519M","gdpPerCapita":"$2,085","currency":"Keniya şillinqi","area":"580367.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","suahili"],"population":53771300,"imgName":null},{"name":"Butan","capitalNames":["Thimphu"],"gdp":"$2,442M","gdpPerCapita":"$3,245","currency":"Butan ngultrum","area":"38394.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["Dzonqa"],"population":771612,"imgName":null},{"name":"Somali","capitalNames":["Moqadişu"],"gdp":"$7,628M","gdpPerCapita":"$447","currency":"Somali şillinqi","area":"637657.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["ərəb","Somali"],"population":15893219,"imgName":null},{"name":"İndoneziya","capitalNames":["Cakarta"],"gdp":"$1,187,319M","gdpPerCapita":"$4,361","currency":"İndoneziya rupisi","area":"1904569.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["indoneziya dili"],"population":273523621,"imgName":null},{"name":"Maldiv adaları","capitalNames":["Male"],"gdp":"$5,406M","gdpPerCapita":"$10,366","currency":"Maldiv rufiyası","area":"300.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["maldiv"],"population":540542,"imgName":null},{"name":"Birləşmiş Krallıq","capitalNames":["London"],"gdp":"$3,131,378M","gdpPerCapita":"$46,681","currency":"Britaniya funtu","area":"242900.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["İngilis dili"],"population":67215293,"imgName":null},{"name":"Tunis","capitalNames":["Tunis"],"gdp":"$46,842M","gdpPerCapita":"$3,820","currency":"Tunis dinarı","area":"163610.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb"],"population":11818618,"imgName":null},{"name":"Türkmənistan","capitalNames":["Aşqabad"],"gdp":"$53,187M","gdpPerCapita":"$8,509","currency":"Türkmənistan manatı","area":"488100.0","region":"Asiya","subRegion":"Orta Asiya","languages":["rus","türkmən"],"population":6031187,"imgName":null},{"name":"Çili","capitalNames":["Santyaqo"],"gdp":"$316,770M","gdpPerCapita":"$16,250","currency":"Çili pesosu","area":"756102.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["ispan dili"],"population":19116209,"imgName":null},{"name":"Əfqanıstan","capitalNames":["Kabil"],"gdp":"$14,787M","gdpPerCapita":"$369","currency":"əfqan əfqan","area":"652230.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["Dari","puştu","türkmən"],"population":40218234,"imgName":null},{"name":"Papua Yeni Qvineya","capitalNames":["Port Moresby"],"gdp":"$26,594M","gdpPerCapita":"$2,673","currency":"Papua Yeni Qvineya kinası","area":"462840.0","region":"Okeaniya","subRegion":"Melaneziya","languages":["İngilis dili","Hiri Motu","Tok Pisin"],"population":8947027,"imgName":null},{"name":"Moldova","capitalNames":["Kişinev"],"gdp":"$13,691M","gdpPerCapita":"$5,235","currency":"Moldova leyi","area":"33846.0","region":"Avropa","subRegion":"Şərqi Avropa","languages":["rumın"],"population":2617820,"imgName":null},{"name":"Tayland","capitalNames":["Banqkok"],"gdp":"$505,902M","gdpPerCapita":"$7,232","currency":"Tay bahtı","area":"513120.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["Tay"],"population":69799978,"imgName":null},{"name":"Burkina Faso","capitalNames":["Uagaduqu"],"gdp":"$19,738M","gdpPerCapita":"$893","currency":"Qərbi Afrika CFA frankı","area":"272967.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":20903278,"imgName":null},{"name":"Müqəddəs Lusiya","capitalNames":["Castries"],"gdp":"$1,691M","gdpPerCapita":"$9,413","currency":"Şərqi Karib dolları","area":"616.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":183629,"imgName":null},{"name":"Paraqvay","capitalNames":["Asunción"],"gdp":"$39,495M","gdpPerCapita":"$5,371","currency":"Paraqvay qarantiyası","area":"406752.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["Guaraní","ispan dili"],"population":7132530,"imgName":null},{"name":"Yeni Zelandiya","capitalNames":["Vellinqton"],"gdp":"$246,974M","gdpPerCapita":"$48,317","currency":"Yeni Zelandiya dolları","area":"270467.0","region":"Okeaniya","subRegion":"Avstraliya və Yeni Zelandiya","languages":["İngilis dili","maori","Yeni Zelandiya işarə dili"],"population":5084300,"imgName":null},{"name":"Dominika","capitalNames":["Roseau"],"gdp":"$554M","gdpPerCapita":"$7,653","currency":"Şərqi Karib dolları","area":"751.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":71991,"imgName":null},{"name":"Baham adaları","capitalNames":["Nassau"],"gdp":"$11,209M","gdpPerCapita":"$27,479","currency":"Baham dolları","area":"13943.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":393248,"imgName":null},{"name":"Serbiya","capitalNames":["Belqrad"],"gdp":"$63,567M","gdpPerCapita":"$9,352","currency":"serb dinarı","area":"88361.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["serb"],"population":6908224,"imgName":null},{"name":"İsveçrə","capitalNames":["Bern"],"gdp":"$808,300M","gdpPerCapita":"$92,520","currency":"İsveçrə frankı","area":"41284.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["Fransız dili","İsveçrə almancası","italyan","Romanş"],"population":8654622,"imgName":null},{"name":"Antiqua və Barbuda","capitalNames":["Saint John's"],"gdp":"$1,471M","gdpPerCapita":"$15,781","currency":"Şərqi Karib dolları","area":"442.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":97928,"imgName":null},{"name":"Ruanda","capitalNames":["Kiqali"],"gdp":"$11,067M","gdpPerCapita":"$822","currency":"Ruanda frankı","area":"26338.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","Fransız dili","Kinyarvanda"],"population":12952209,"imgName":null},{"name":"İslandiya","capitalNames":["Reykyavik"],"gdp":"$27,883M","gdpPerCapita":"$74,107","currency":"İslandiya kronası","area":"103000.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["island"],"population":366425,"imgName":null},{"name":"Yunanıstan","capitalNames":["Afina"],"gdp":"$219,056M","gdpPerCapita":"$20,658","currency":"avro","area":"131990.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["yunan"],"population":10715549,"imgName":null},{"name":"Ermənistan","capitalNames":["İrəvan"],"gdp":"$13,928M","gdpPerCapita":"$4,990","currency":"erməni dramı","area":"29743.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["erməni"],"population":2963234,"imgName":null},{"name":"Bəhreyn","capitalNames":["Manama"],"gdp":"$38,869M","gdpPerCapita":"$26,139","currency":"Bəhreyn dinarı","area":"765.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":1701583,"imgName":null},{"name":"Belarusiya","capitalNames":["Minsk"],"gdp":"$68,205M","gdpPerCapita":"$7,302","currency":"Belarus rublu","area":"207600.0","region":"Avropa","subRegion":"Şərqi Avropa","languages":["belarus","rus"],"population":9398861,"imgName":null},{"name":"Monteneqro","capitalNames":["Podqoritsa"],"gdp":"$5,865M","gdpPerCapita":"$9,495","currency":"avro","area":"13812.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["Monteneqro"],"population":621718,"imgName":null},{"name":"Malavi","capitalNames":["Lilonqve"],"gdp":"$12,627M","gdpPerCapita":"$635","currency":"Malavi kvaçası","area":"118484.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","Chewa"],"population":19129955,"imgName":null},{"name":"Banqladeş","capitalNames":["Dəkkə"],"gdp":"$416,265M","gdpPerCapita":"$2,458","currency":"Banqladeş takası","area":"147570.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["benqal dili"],"population":164689383,"imgName":null},{"name":"Qvineya-Bisau","capitalNames":["Bissau"],"gdp":"$1,639M","gdpPerCapita":"$795","currency":"Qərbi Afrika CFA frankı","area":"36125.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["portuqal","Yuxarı Qvineya Kreol"],"population":1967998,"imgName":null},{"name":"Rusiya","capitalNames":["Moskva"],"gdp":"$1,778,530M","gdpPerCapita":"$12,219","currency":"rus rublu","area":"1.7098242E7","region":"Avropa","subRegion":"Şərqi Avropa","languages":["rus"],"population":144104080,"imgName":null},{"name":"Pakistan","capitalNames":["İslamabad"],"gdp":"$348,227M","gdpPerCapita":"$1,564","currency":"Pakistan rupisi","area":"881912.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["İngilis dili","Urdu"],"population":220892331,"imgName":null},{"name":"Fələstin","capitalNames":["Ramallah","Yerusəlim"],"gdp":"$18,037M","gdpPerCapita":"$3,451","currency":"Misir funtu","area":"6220.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":4803269,"imgName":null},{"name":"Sent Vinsent və Qrenadinlər","capitalNames":["Kingstown"],"gdp":"$904M","gdpPerCapita":"$8,667","currency":"Şərqi Karib dolları","area":"389.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":110947,"imgName":null},{"name":"Qayana","capitalNames":["Corctaun"],"gdp":"$7,717M","gdpPerCapita":"$9,591","currency":"Qayana dolları","area":"214969.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["İngilis dili"],"population":786559,"imgName":null},{"name":"Portuqaliya","capitalNames":["Lissabon"],"gdp":"$252,171M","gdpPerCapita":"$24,360","currency":"avro","area":"92090.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["portuqal"],"population":10305564,"imgName":null},{"name":"Çexiya","capitalNames":["Praqa"],"gdp":"$290,739M","gdpPerCapita":"$27,645","currency":"Çex korunası","area":"78865.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["çex","slovak"],"population":10698896,"imgName":null},{"name":"Braziliya","capitalNames":["Braziliya"],"gdp":"$1,608,080M","gdpPerCapita":"$7,503","currency":"Braziliya realı","area":"8515767.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["portuqal"],"population":212559409,"imgName":null},{"name":"Tanzaniya","capitalNames":["Dodoma"],"gdp":"$70,309M","gdpPerCapita":"$1,106","currency":"Tanzaniya şillinqi","area":"945087.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","suahili"],"population":59734213,"imgName":null},{"name":"Qvatemala","capitalNames":["Qvatemala şəhəri"],"gdp":"$85,974M","gdpPerCapita":"$5,025","currency":"Qvatemala quetzalı","area":"108889.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":16858333,"imgName":null},{"name":"Samoa","capitalNames":["Apia"],"gdp":"$844M","gdpPerCapita":"$3,858","currency":"Samoa talası","area":"2842.0","region":"Okeaniya","subRegion":"Polineziya","languages":["İngilis dili","samoa"],"population":198410,"imgName":null},{"name":"Latviya","capitalNames":["Riqa"],"gdp":"$41,152M","gdpPerCapita":"$21,939","currency":"avro","area":"64559.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["latış"],"population":1901548,"imgName":null},{"name":"Sierra Leone","capitalNames":["Fritaun"],"gdp":"$4,148M","gdpPerCapita":"$509","currency":"Sierra Leone Leone","area":"71740.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["İngilis dili"],"population":7976985,"imgName":null},{"name":"Mavrikiy","capitalNames":["Port Louis"],"gdp":"$11,157M","gdpPerCapita":"$8,827","currency":"Mavritaniya rupisi","area":"2040.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","Fransız dili","Mavritaniya Kreol"],"population":1265740,"imgName":null},{"name":"Kiribati","capitalNames":["Cənubi Tarava"],"gdp":"$207M","gdpPerCapita":"$1,606","currency":"Avstraliya dolları","area":"811.0","region":"Okeaniya","subRegion":"Mikroneziya","languages":["İngilis dili","Gilbertese"],"population":119446,"imgName":null},{"name":"Burundi","capitalNames":["Giteqa"],"gdp":"$2,780M","gdpPerCapita":"$221","currency":"Burundi frankı","area":"27834.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["Fransız dili","Kirundi"],"population":11890781,"imgName":null},{"name":"Sinqapur","capitalNames":["Sinqapur"],"gdp":"$396,992M","gdpPerCapita":"$72,795","currency":"Sinqapur dolları","area":"710.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["çinli","İngilis dili","malay","tamil"],"population":5685807,"imgName":null},{"name":"Andorra","capitalNames":["Andorra la Vella"],"gdp":"$3,330M","gdpPerCapita":"$41,873","currency":"avro","area":"468.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["katalan dili"],"population":77265,"imgName":null},{"name":"Livan","capitalNames":["Beyrut"],"gdp":"$23,132M","gdpPerCapita":"$4,136","currency":"Livan funtu","area":"10452.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb","Fransız dili"],"population":6825442,"imgName":null},{"name":"Şərqi Timor","capitalNames":["Dili"],"gdp":"$3,621M","gdpPerCapita":"$2,741","currency":"ABŞ dolları","area":"14874.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["portuqal","Tetum"],"population":1318442,"imgName":null},{"name":"Namibiya","capitalNames":["Windhoek"],"gdp":"$12,307M","gdpPerCapita":"$4,826","currency":"Namibiya dolları","area":"825615.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["Afrikaans","alman","İngilis dili","Herero","Khoekhoe","Kvanqali","Lozi","Ndonqa","svana"],"population":2540916,"imgName":null},{"name":"Surinam","capitalNames":["Paramaribo"],"gdp":"$2,985M","gdpPerCapita":"$4,869","currency":"Surinam dolları","area":"163820.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["holland"],"population":586634,"imgName":null},{"name":"Zambiya","capitalNames":["Lusaka"],"gdp":"$21,313M","gdpPerCapita":"$1,094","currency":"Zambiya kvaçası","area":"752612.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili"],"population":18383956,"imgName":null},{"name":"Mozambik","capitalNames":["Maputo"],"gdp":"$15,777M","gdpPerCapita":"$492","currency":"Mozambik metikali","area":"801590.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["portuqal"],"population":31255435,"imgName":null},{"name":"Şimali Makedoniya","capitalNames":["Skopye"],"gdp":"$13,581M","gdpPerCapita":"$7,394","currency":"dinar","area":"25713.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["makedon"],"population":2077132,"imgName":null},{"name":"İspaniya","capitalNames":["Madrid"],"gdp":"$1,399,355M","gdpPerCapita":"$29,389","currency":"avro","area":"505992.0","region":"Avropa","subRegion":"Cənubi Avropa","languages":["ispan dili"],"population":47351567,"imgName":null},{"name":"Monqolustan","capitalNames":["Ulan-Bator"],"gdp":"$15,286M","gdpPerCapita":"$4,483","currency":"monqol tögrög","area":"1564110.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["monqol"],"population":3278292,"imgName":null},{"name":"Birləşmiş Ərəb Əmirlikləri","capitalNames":["Abu Dabi"],"gdp":"$415,022M","gdpPerCapita":"$44,316","currency":"Birləşmiş Ərəb Əmirlikləri dirhəmi","area":"83600.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":9890400,"imgName":null},{"name":"Cənubi Koreya","capitalNames":["Seul"],"gdp":"$1,797,810M","gdpPerCapita":"$34,744","currency":"Cənubi Koreya qalib gəldi","area":"100210.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["koreyalı"],"population":51780579,"imgName":null},{"name":"Küveyt","capitalNames":["Küveyt şəhəri"],"gdp":"$105,949M","gdpPerCapita":"$22,684","currency":"Küveyt dinarı","area":"17818.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":4270563,"imgName":null},{"name":"Fici","capitalNames":["Suva"],"gdp":"$4,296M","gdpPerCapita":"$4,646","currency":"Fici dolları","area":"18272.0","region":"Okeaniya","subRegion":"Melaneziya","languages":["İngilis dili","fici dili","Fici hindi"],"population":896444,"imgName":null},{"name":"Mərakeş","capitalNames":["Rabat"],"gdp":"$142,867M","gdpPerCapita":"$3,934","currency":"Mərakeş dirhəmi","area":"446550.0","region":"Afrika","subRegion":"Şimali Afrika","languages":["ərəb","berber"],"population":36910558,"imgName":null},{"name":"Efiopiya","capitalNames":["Əddis-Əbəbə"],"gdp":"$99,269M","gdpPerCapita":"$996","currency":"Efiopiya birri","area":"1104300.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["amhar"],"population":114963583,"imgName":null},{"name":"Albaniya","capitalNames":["Tirana"],"gdp":"$18,256M","gdpPerCapita":"$6,535","currency":"alban lek","area":"28748.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["alban"],"population":2837743,"imgName":null},{"name":"Honq Konq","capitalNames":["Viktoriya şəhəri"],"gdp":"$369,158M","gdpPerCapita":"$49,865","currency":"Honq Konq dolları","area":"1104.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["İngilis dili","çinli"],"population":7500700,"imgName":null},{"name":"Almaniya","capitalNames":["Berlin"],"gdp":"$4,072,004M","gdpPerCapita":"$48,921","currency":"avro","area":"357114.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["alman"],"population":83240525,"imgName":null},{"name":"Dominik respublikası","capitalNames":["Santo Dominqo"],"gdp":"$94,714M","gdpPerCapita":"$8,519","currency":"Dominikan pesosu","area":"48671.0","region":"Amerika","subRegion":"Karib dənizi","languages":["ispan dili"],"population":10847904,"imgName":null},{"name":"El Salvador","capitalNames":["San Salvador"],"gdp":"$28,737M","gdpPerCapita":"$4,551","currency":"ABŞ dolları","area":"21041.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":6486201,"imgName":null},{"name":"Qətər","capitalNames":["Doha"],"gdp":"$179,677M","gdpPerCapita":"$66,838","currency":"Qətər riyalı","area":"11586.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":2881060,"imgName":null},{"name":"Filippin","capitalNames":["Manila"],"gdp":"$394,086M","gdpPerCapita":"$3,576","currency":"Filippin pesosu","area":"342353.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["İngilis dili","Filippin"],"population":109581085,"imgName":null},{"name":"Nepal","capitalNames":["Katmandu"],"gdp":"$36,289M","gdpPerCapita":"$1,208","currency":"Nepal rupisi","area":"147181.0","region":"Asiya","subRegion":"Cənubi Asiya","languages":["nepal dili"],"population":29136808,"imgName":null},{"name":"Suriya","capitalNames":["Dəməşq"],"gdp":"$11,080M","gdpPerCapita":"$533","currency":"Suriya funtu","area":"185180.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":17500657,"imgName":null},{"name":"Sloveniya","capitalNames":["Lyublyana"],"gdp":"$62,115M","gdpPerCapita":"$29,478","currency":"avro","area":"20273.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["sloven"],"population":2100126,"imgName":null},{"name":"Xorvatiya","capitalNames":["Zaqreb"],"gdp":"$70,958M","gdpPerCapita":"$18,292","currency":"avro","area":"56594.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["xorvat"],"population":4047200,"imgName":null},{"name":"Rumıniya","capitalNames":["Buxarest"],"gdp":"$301,608M","gdpPerCapita":"$15,842","currency":"Rumıniya leyi","area":"238391.0","region":"Avropa","subRegion":"Cənub-Şərqi Avropa","languages":["rumın"],"population":19286123,"imgName":null},{"name":"Oman","capitalNames":["Maskat"],"gdp":"$85,869M","gdpPerCapita":"$18,966","currency":"Oman rialı","area":"309500.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":5106622,"imgName":null},{"name":"Yəmən","capitalNames":["Səna"],"gdp":"$21,062M","gdpPerCapita":"$639","currency":"Yəmən rialı","area":"527968.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":29825968,"imgName":null},{"name":"Finlandiya","capitalNames":["Helsinki"],"gdp":"$280,516M","gdpPerCapita":"$50,559","currency":"avro","area":"338424.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["fin","isveçli"],"population":5530719,"imgName":null},{"name":"Fransa","capitalNames":["Paris"],"gdp":"$2,782,777M","gdpPerCapita":"$41,018","currency":"avro","area":"551695.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["Fransız dili"],"population":67391582,"imgName":null},{"name":"Polşa","capitalNames":["Varşava"],"gdp":"$689,340M","gdpPerCapita":"$18,307","currency":"Polşa zlotisi","area":"312679.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["polyak"],"population":37950802,"imgName":null},{"name":"Yaponiya","capitalNames":["Tokio"],"gdp":"$4,932,556M","gdpPerCapita":"$39,246","currency":"Yapon yeni","area":"377930.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["yapon"],"population":125836021,"imgName":null},{"name":"Qırğızıstan","capitalNames":["Bişkek"],"gdp":"$8,538M","gdpPerCapita":"$1,276","currency":"Qırğızıstan somu","area":"199951.0","region":"Asiya","subRegion":"Orta Asiya","languages":["qırğız","rus"],"population":6591600,"imgName":null},{"name":"Lesoto","capitalNames":["Maseru"],"gdp":"$2,465M","gdpPerCapita":"$1,080","currency":"Lesoto loti","area":"30355.0","region":"Afrika","subRegion":"Cənubi Afrika","languages":["İngilis dili","Sotho"],"population":2142252,"imgName":null},{"name":"İordaniya","capitalNames":["Amman"],"gdp":"$45,744M","gdpPerCapita":"$4,103","currency":"İordaniya dinarı","area":"89342.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["ərəb"],"population":10203140,"imgName":null},{"name":"Lüksemburq","capitalNames":["Lüksemburq"],"gdp":"$85,506M","gdpPerCapita":"$132,486","currency":"avro","area":"2586.0","region":"Avropa","subRegion":"Qərbi Avropa","languages":["alman","Fransız dili","Lüksemburq"],"population":632275,"imgName":null},{"name":"Nigeriya","capitalNames":["Abuja"],"gdp":"$440,834M","gdpPerCapita":"$2,066","currency":"Nigeriya nairası","area":"923768.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["İngilis dili"],"population":206139587,"imgName":null},{"name":"Saint Kitts və Nevis","capitalNames":["Basseterre"],"gdp":"$861M","gdpPerCapita":"$18,082","currency":"Şərqi Karib dolları","area":"261.0","region":"Amerika","subRegion":"Karib dənizi","languages":["İngilis dili"],"population":53192,"imgName":null},{"name":"Ekvatorial Qvineya","capitalNames":["Malabo"],"gdp":"$12,269M","gdpPerCapita":"$7,506","currency":"Mərkəzi Afrika CFA frankı","area":"28051.0","region":"Afrika","subRegion":"Orta Afrika","languages":["Fransız dili","portuqal","ispan dili"],"population":1402985,"imgName":null},{"name":"Panama","capitalNames":["Panama şəhəri"],"gdp":"$63,605M","gdpPerCapita":"$14,618","currency":"Panama balboası","area":"75417.0","region":"Amerika","subRegion":"Mərkəzi Amerika","languages":["ispan dili"],"population":4314768,"imgName":null},{"name":"Çin","capitalNames":["Pekin"],"gdp":"$17,744,640M","gdpPerCapita":"$12,564","currency":"Çin yuanı","area":"9706961.0","region":"Asiya","subRegion":"Şərqi Asiya","languages":["çinli"],"population":1402112000,"imgName":null},{"name":"Peru","capitalNames":["Lima"],"gdp":"$225,938M","gdpPerCapita":"$6,701","currency":"Peru sol","area":"1285216.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["Aymara","Keçua","ispan dili"],"population":32971846,"imgName":null},{"name":"Azərbaycan","capitalNames":["Bakı"],"gdp":"$54,622M","gdpPerCapita":"$5,398","currency":"Azərbaycan manatı","area":"86600.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["Azərbaycan","rus"],"population":10110116,"imgName":null},{"name":"Getmək","capitalNames":["Lome"],"gdp":"$8,413M","gdpPerCapita":"$973","currency":"Qərbi Afrika CFA frankı","area":"56785.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":8278737,"imgName":null},{"name":"Özbəkistan","capitalNames":["Daşkənd"],"gdp":"$69,202M","gdpPerCapita":"$2,002","currency":"Özbəkistan so'm","area":"447400.0","region":"Asiya","subRegion":"Orta Asiya","languages":["rus","özbək"],"population":34232050,"imgName":null},{"name":"Bruney","capitalNames":["Bandar Seri Begawan"],"gdp":"$14,006M","gdpPerCapita":"$32,573","currency":"Bruney dolları","area":"5765.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["malay"],"population":437483,"imgName":null},{"name":"Malayziya","capitalNames":["Kuala Lumpur"],"gdp":"$373,034M","gdpPerCapita":"$11,408","currency":"Malayziya ringgiti","area":"330803.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["İngilis dili","malay"],"population":32365998,"imgName":null},{"name":"Haiti","capitalNames":["Port-au-Prens"],"gdp":"$21,017M","gdpPerCapita":"$1,836","currency":"Haiti gurdu","area":"27750.0","region":"Amerika","subRegion":"Karib dənizi","languages":["Fransız dili","Haiti Kreol"],"population":11402533,"imgName":null},{"name":"Avstriya","capitalNames":["Vyana"],"gdp":"$471,378M","gdpPerCapita":"$52,498","currency":"avro","area":"83871.0","region":"Avropa","subRegion":"Mərkəzi Avropa","languages":["Avstriya-Bavariya alman"],"population":8917205,"imgName":null},{"name":"İsveç","capitalNames":["Stokholm"],"gdp":"$587,081M","gdpPerCapita":"$56,167","currency":"isveç kronu","area":"450295.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["isveçli"],"population":10353442,"imgName":null},{"name":"tuvalu","capitalNames":["Funafuti"],"gdp":"$63M","gdpPerCapita":"$5,632","currency":"Avstraliya dolları","area":"26.0","region":"Okeaniya","subRegion":"Polineziya","languages":["İngilis dili","tuvalu"],"population":11792,"imgName":null},{"name":"Cibuti","capitalNames":["Cibuti"],"gdp":"$3,483M","gdpPerCapita":"$3,476","currency":"Cibuti frankı","area":"23200.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["ərəb","Fransız dili"],"population":988002,"imgName":null},{"name":"Madaqaskar","capitalNames":["Antananarivo"],"gdp":"$14,473M","gdpPerCapita":"$501","currency":"Malaqas ariarisi","area":"587041.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["Fransız dili","malaqas"],"population":27691019,"imgName":null},{"name":"Estoniya","capitalNames":["Tallinn"],"gdp":"$38,099M","gdpPerCapita":"$28,607","currency":"avro","area":"45227.0","region":"Avropa","subRegion":"Şimali Avropa","languages":["eston"],"population":1331057,"imgName":null},{"name":"Kolumbiya","capitalNames":["Boqota"],"gdp":"$314,409M","gdpPerCapita":"$6,159","currency":"Kolumbiya pesosu","area":"1141748.0","region":"Amerika","subRegion":"Cənubi Amerika","languages":["ispan dili"],"population":50882884,"imgName":null},{"name":"Meksika","capitalNames":["Mexiko şəhəri"],"gdp":"$1,297,661M","gdpPerCapita":"$10,242","currency":"Meksika pesosu","area":"1964375.0","region":"Amerika","subRegion":"Şimali Amerika","languages":["ispan dili"],"population":128932753,"imgName":null},{"name":"Komor adaları","capitalNames":["Moroni"],"gdp":"$1,296M","gdpPerCapita":"$1,577","currency":"Komoriya frankı","area":"1862.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["ərəb","Fransız dili","komoriyalı"],"population":869595,"imgName":null},{"name":"Uqanda","capitalNames":["Kampala"],"gdp":"$42,959M","gdpPerCapita":"$1,012","currency":"Uqanda şillinqi","area":"241550.0","region":"Afrika","subRegion":"Şərqi Afrika","languages":["İngilis dili","suahili"],"population":45741000,"imgName":null},{"name":"Türkiyə","capitalNames":["Ankara"],"gdp":"$817,508M","gdpPerCapita":"$9,654","currency":"türk lirəsi","area":"783562.0","region":"Asiya","subRegion":"Qərbi Asiya","languages":["türk"],"population":84339067,"imgName":null},{"name":"Fil Dişi Sahili","capitalNames":["Yamoussoukro"],"gdp":"$70,043M","gdpPerCapita":"$2,549","currency":"Qərbi Afrika CFA frankı","area":"322463.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["Fransız dili"],"population":26378275,"imgName":null},{"name":"Vyetnam","capitalNames":["Hanoy"],"gdp":"$366,201M","gdpPerCapita":"$3,757","currency":"Vyetnam đồng","area":"331212.0","region":"Asiya","subRegion":"Cənub-Şərqi Asiya","languages":["vyetnamlı"],"population":97338583,"imgName":null},{"name":"Kabo Verde","capitalNames":["Praia"],"gdp":"$1,936M","gdpPerCapita":"$3,293","currency":"Kape Verde eskudosu","area":"4033.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["portuqal"],"population":555988,"imgName":null},{"name":"Qambiya","capitalNames":["Banjul"],"gdp":"$2,038M","gdpPerCapita":"$772","currency":"dalası","area":"10689.0","region":"Afrika","subRegion":"Qərbi Afrika","languages":["İngilis dili"],"population":2416664,"imgName":null},{"name":"San-Tome və Prinsipi","capitalNames":["San-Tome"],"gdp":"$527M","gdpPerCapita":"$2,361","currency":"San-Tome və Prinsipe dobra","area":"964.0","region":"Afrika","subRegion":"Orta Afrika","languages":["portuqal"],"population":219161,"imgName":null}]
+[
+  {
+    "name": "Lixtenşteyn",
+    "capitalNames": [
+      "Vaduz"
+    ],
+    "gdp": "$6,114M",
+    "gdpPerCapita": "$156,548",
+    "currency": "İsveçrə frankı",
+    "area": "160.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "alman"
+    ],
+    "population": 38137,
+    "imgName": "liechtenstein"
+  },
+  {
+    "name": "Beliz",
+    "capitalNames": [
+      "Belmopan"
+    ],
+    "gdp": "$2,492M",
+    "gdpPerCapita": "$5,794",
+    "currency": "Beliz dolları",
+    "area": "22966.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "Beliz Kreol",
+      "İngilis dili",
+      "ispan dili"
+    ],
+    "population": 397621,
+    "imgName": "belize"
+  },
+  {
+    "name": "Şimali Makedoniya",
+    "capitalNames": [
+      "Skopye"
+    ],
+    "gdp": "$13,581M",
+    "gdpPerCapita": "$7,394",
+    "currency": "dinar",
+    "area": "25713.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "makedon"
+    ],
+    "population": 2077132,
+    "imgName": "macedonia"
+  },
+  {
+    "name": "Paraqvay",
+    "capitalNames": [
+      "Asunción"
+    ],
+    "gdp": "$39,495M",
+    "gdpPerCapita": "$5,371",
+    "currency": "Paraqvay qarantiyası",
+    "area": "406752.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "Guaraní",
+      "ispan dili"
+    ],
+    "population": 7132530,
+    "imgName": "paraguay"
+  },
+  {
+    "name": "Şri Lanka",
+    "capitalNames": [
+      "Şri Jayawardenepura Kotte"
+    ],
+    "gdp": "$88,979M",
+    "gdpPerCapita": "$4,016",
+    "currency": "Şri Lanka rupisi",
+    "area": "65610.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "Sinhala",
+      "tamil"
+    ],
+    "population": 21919000,
+    "imgName": "sri_lanka"
+  },
+  {
+    "name": "İtaliya",
+    "capitalNames": [
+      "Roma"
+    ],
+    "gdp": "$2,010,339M",
+    "gdpPerCapita": "$34,083",
+    "currency": "avro",
+    "area": "301336.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "italyan"
+    ],
+    "population": 59554023,
+    "imgName": "italy"
+  },
+  {
+    "name": "Qvineya-Bisau",
+    "capitalNames": [
+      "Bissau"
+    ],
+    "gdp": "$1,639M",
+    "gdpPerCapita": "$795",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "36125.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "portuqal",
+      "Yuxarı Qvineya Kreol"
+    ],
+    "population": 1967998,
+    "imgName": "guinea_bissau"
+  },
+  {
+    "name": "Misir",
+    "capitalNames": [
+      "Qahirə"
+    ],
+    "gdp": "$423,145M",
+    "gdpPerCapita": "$4,144",
+    "currency": "Misir funtu",
+    "area": "1002450.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 102334403,
+    "imgName": "egypt"
+  },
+  {
+    "name": "Mavritaniya",
+    "capitalNames": [
+      "Nuakşot"
+    ],
+    "gdp": "$9,892M",
+    "gdpPerCapita": "$2,143",
+    "currency": "Mavritaniya ouqiyası",
+    "area": "1030700.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 4649660,
+    "imgName": "mauritania"
+  },
+  {
+    "name": "Slovakiya",
+    "capitalNames": [
+      "Bratislava"
+    ],
+    "gdp": "$113,440M",
+    "gdpPerCapita": "$20,873",
+    "currency": "avro",
+    "area": "49037.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "slovak"
+    ],
+    "population": 5458827,
+    "imgName": "slovakia"
+  },
+  {
+    "name": "Ermənistan",
+    "capitalNames": [
+      "İrəvan"
+    ],
+    "gdp": "$13,928M",
+    "gdpPerCapita": "$4,990",
+    "currency": "erməni dramı",
+    "area": "29743.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "erməni"
+    ],
+    "population": 2963234,
+    "imgName": "armenia"
+  },
+  {
+    "name": "Eritreya",
+    "capitalNames": [
+      "Əsmərə"
+    ],
+    "gdp": "$1,982M",
+    "gdpPerCapita": "$566",
+    "currency": "Eritreya nakfası",
+    "area": "117600.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "ərəb",
+      "İngilis dili",
+      "Tiqrinya"
+    ],
+    "population": 5352000,
+    "imgName": "eritrea"
+  },
+  {
+    "name": "Lesoto",
+    "capitalNames": [
+      "Maseru"
+    ],
+    "gdp": "$2,465M",
+    "gdpPerCapita": "$1,080",
+    "currency": "Lesoto loti",
+    "area": "30355.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "İngilis dili",
+      "Sotho"
+    ],
+    "population": 2142252,
+    "imgName": "lesotho"
+  },
+  {
+    "name": "Pakistan",
+    "capitalNames": [
+      "İslamabad"
+    ],
+    "gdp": "$348,227M",
+    "gdpPerCapita": "$1,564",
+    "currency": "Pakistan rupisi",
+    "area": "881912.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "İngilis dili",
+      "Urdu"
+    ],
+    "population": 220892331,
+    "imgName": "pakistan"
+  },
+  {
+    "name": "İslandiya",
+    "capitalNames": [
+      "Reykyavik"
+    ],
+    "gdp": "$27,883M",
+    "gdpPerCapita": "$74,107",
+    "currency": "İslandiya kronası",
+    "area": "103000.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "island"
+    ],
+    "population": 366425,
+    "imgName": "iceland"
+  },
+  {
+    "name": "Bəhreyn",
+    "capitalNames": [
+      "Manama"
+    ],
+    "gdp": "$38,869M",
+    "gdpPerCapita": "$26,139",
+    "currency": "Bəhreyn dinarı",
+    "area": "765.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 1701583,
+    "imgName": "bahrain"
+  },
+  {
+    "name": "Özbəkistan",
+    "capitalNames": [
+      "Daşkənd"
+    ],
+    "gdp": "$69,202M",
+    "gdpPerCapita": "$2,002",
+    "currency": "Özbəkistan so'm",
+    "area": "447400.0",
+    "region": "Asiya",
+    "subRegion": "Orta Asiya",
+    "languages": [
+      "rus",
+      "özbək"
+    ],
+    "population": 34232050,
+    "imgName": "uzbekistan"
+  },
+  {
+    "name": "Mavrikiy",
+    "capitalNames": [
+      "Port Louis"
+    ],
+    "gdp": "$11,157M",
+    "gdpPerCapita": "$8,827",
+    "currency": "Mavritaniya rupisi",
+    "area": "2040.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "Fransız dili",
+      "Mavritaniya Kreol"
+    ],
+    "population": 1265740,
+    "imgName": "mauritius"
+  },
+  {
+    "name": "Qvatemala",
+    "capitalNames": [
+      "Qvatemala şəhəri"
+    ],
+    "gdp": "$85,974M",
+    "gdpPerCapita": "$5,025",
+    "currency": "Qvatemala quetzalı",
+    "area": "108889.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 16858333,
+    "imgName": "guatemala"
+  },
+  {
+    "name": "Zimbabve",
+    "capitalNames": [
+      "Harare"
+    ],
+    "gdp": "$28,371M",
+    "gdpPerCapita": "$1,774",
+    "currency": "Zimbabve dolları",
+    "area": "390757.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "Çibarve",
+      "İngilis dili",
+      "Kalanqa",
+      "Xoysan",
+      "Ndau",
+      "Şimali Ndebele",
+      "Chewa",
+      "Şona",
+      "Sotho",
+      "Tonqa",
+      "svana",
+      "Tsonqa",
+      "Venda",
+      "Xosa",
+      "Zimbabve işarə dili"
+    ],
+    "population": 14862927,
+    "imgName": "zimbabwe"
+  },
+  {
+    "name": "Ukrayna",
+    "capitalNames": [
+      "Kiyev"
+    ],
+    "gdp": "$200,086M",
+    "gdpPerCapita": "$4,880",
+    "currency": "ukrayna qrivnası",
+    "area": "603500.0",
+    "region": "Avropa",
+    "subRegion": "Şərqi Avropa",
+    "languages": [
+      "ukraynalı"
+    ],
+    "population": 44134693,
+    "imgName": "ukraine"
+  },
+  {
+    "name": "Estoniya",
+    "capitalNames": [
+      "Tallinn"
+    ],
+    "gdp": "$38,099M",
+    "gdpPerCapita": "$28,607",
+    "currency": "avro",
+    "area": "45227.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "eston"
+    ],
+    "population": 1331057,
+    "imgName": "estonia"
+  },
+  {
+    "name": "Banqladeş",
+    "capitalNames": [
+      "Dəkkə"
+    ],
+    "gdp": "$416,265M",
+    "gdpPerCapita": "$2,458",
+    "currency": "Banqladeş takası",
+    "area": "147570.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "benqal dili"
+    ],
+    "population": 164689383,
+    "imgName": "bangladesh"
+  },
+  {
+    "name": "Malavi",
+    "capitalNames": [
+      "Lilonqve"
+    ],
+    "gdp": "$12,627M",
+    "gdpPerCapita": "$635",
+    "currency": "Malavi kvaçası",
+    "area": "118484.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "Chewa"
+    ],
+    "population": 19129955,
+    "imgName": "malawi"
+  },
+  {
+    "name": "Sloveniya",
+    "capitalNames": [
+      "Lyublyana"
+    ],
+    "gdp": "$62,115M",
+    "gdpPerCapita": "$29,478",
+    "currency": "avro",
+    "area": "20273.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "sloven"
+    ],
+    "population": 2100126,
+    "imgName": "slovenia"
+  },
+  {
+    "name": "Kiribati",
+    "capitalNames": [
+      "Cənubi Tarava"
+    ],
+    "gdp": "$207M",
+    "gdpPerCapita": "$1,606",
+    "currency": "Avstraliya dolları",
+    "area": "811.0",
+    "region": "Okeaniya",
+    "subRegion": "Mikroneziya",
+    "languages": [
+      "İngilis dili",
+      "Gilbertese"
+    ],
+    "population": 119446,
+    "imgName": "kiribati"
+  },
+  {
+    "name": "Norveç",
+    "capitalNames": [
+      "Oslo"
+    ],
+    "gdp": "$580,478M",
+    "gdpPerCapita": "$106,995",
+    "currency": "Norveç kronu",
+    "area": "323802.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "Norveç Nynorsk",
+      "Norveç bokmal",
+      "Sami"
+    ],
+    "population": 5379475,
+    "imgName": "norway"
+  },
+  {
+    "name": "Boliviya",
+    "capitalNames": [
+      "Sucre"
+    ],
+    "gdp": "$40,703M",
+    "gdpPerCapita": "$3,370",
+    "currency": "Boliviya boliviano",
+    "area": "1098581.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Keçua",
+      "ispan dili"
+    ],
+    "population": 11673029,
+    "imgName": "bolivia"
+  },
+  {
+    "name": "Ekvatorial Qvineya",
+    "capitalNames": [
+      "Malabo"
+    ],
+    "gdp": "$12,269M",
+    "gdpPerCapita": "$7,506",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "28051.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "Fransız dili",
+      "portuqal",
+      "ispan dili"
+    ],
+    "population": 1402985,
+    "imgName": "equatorial_guinea"
+  },
+  {
+    "name": "Esvatini",
+    "capitalNames": [
+      "Mbabane"
+    ],
+    "gdp": "$4,743M",
+    "gdpPerCapita": "$3,978",
+    "currency": "Svaz lilangeni",
+    "area": "17364.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "İngilis dili",
+      "Svaz dili"
+    ],
+    "population": 1160164,
+    "imgName": "swaziland"
+  },
+  {
+    "name": "Anqola",
+    "capitalNames": [
+      "Luanda"
+    ],
+    "gdp": "$75,179M",
+    "gdpPerCapita": "$2,179",
+    "currency": "Anqola kvantası",
+    "area": "1246700.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 32866268,
+    "imgName": "angola"
+  },
+  {
+    "name": "Fələstin",
+    "capitalNames": [
+      "Ramallah",
+      "Yerusəlim"
+    ],
+    "gdp": "$18,037M",
+    "gdpPerCapita": "$3,451",
+    "currency": "Misir funtu",
+    "area": "6220.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 4803269,
+    "imgName": "palestine"
+  },
+  {
+    "name": "İsveçrə",
+    "capitalNames": [
+      "Bern"
+    ],
+    "gdp": "$808,300M",
+    "gdpPerCapita": "$92,520",
+    "currency": "İsveçrə frankı",
+    "area": "41284.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "Fransız dili",
+      "İsveçrə almancası",
+      "italyan",
+      "Romanş"
+    ],
+    "population": 8654622,
+    "imgName": "switzerland"
+  },
+  {
+    "name": "İspaniya",
+    "capitalNames": [
+      "Madrid"
+    ],
+    "gdp": "$1,399,355M",
+    "gdpPerCapita": "$29,389",
+    "currency": "avro",
+    "area": "505992.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 47351567,
+    "imgName": "spain"
+  },
+  {
+    "name": "Meksika",
+    "capitalNames": [
+      "Mexiko şəhəri"
+    ],
+    "gdp": "$1,297,661M",
+    "gdpPerCapita": "$10,242",
+    "currency": "Meksika pesosu",
+    "area": "1964375.0",
+    "region": "Amerika",
+    "subRegion": "Şimali Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 128932753,
+    "imgName": "mexico"
+  },
+  {
+    "name": "Antiqua və Barbuda",
+    "capitalNames": [
+      "Saint John's"
+    ],
+    "gdp": "$1,471M",
+    "gdpPerCapita": "$15,781",
+    "currency": "Şərqi Karib dolları",
+    "area": "442.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 97928,
+    "imgName": "antigua_and_barbuda"
+  },
+  {
+    "name": "Nikaraqua",
+    "capitalNames": [
+      "Manaqua"
+    ],
+    "gdp": "$14,001M",
+    "gdpPerCapita": "$2,044",
+    "currency": "Nikaraqua kordobası",
+    "area": "130373.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 6624554,
+    "imgName": "nicaragua"
+  },
+  {
+    "name": "Andorra",
+    "capitalNames": [
+      "Andorra la Vella"
+    ],
+    "gdp": "$3,330M",
+    "gdpPerCapita": "$41,873",
+    "currency": "avro",
+    "area": "468.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "katalan dili"
+    ],
+    "population": 77265,
+    "imgName": "andorra"
+  },
+  {
+    "name": "Yamayka",
+    "capitalNames": [
+      "Kinqston"
+    ],
+    "gdp": "$14,658M",
+    "gdpPerCapita": "$5,184",
+    "currency": "Yamayka dolları",
+    "area": "10991.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili",
+      "Yamaykalı Patois"
+    ],
+    "population": 2961161,
+    "imgName": "jamaica"
+  },
+  {
+    "name": "Mali",
+    "capitalNames": [
+      "Bamako"
+    ],
+    "gdp": "$19,141M",
+    "gdpPerCapita": "$874",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "1240192.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 20250834,
+    "imgName": "mali"
+  },
+  {
+    "name": "Suriya",
+    "capitalNames": [
+      "Dəməşq"
+    ],
+    "gdp": "$11,080M",
+    "gdpPerCapita": "$533",
+    "currency": "Suriya funtu",
+    "area": "185180.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 17500657,
+    "imgName": "syria"
+  },
+  {
+    "name": "Tunis",
+    "capitalNames": [
+      "Tunis"
+    ],
+    "gdp": "$46,842M",
+    "gdpPerCapita": "$3,820",
+    "currency": "Tunis dinarı",
+    "area": "163610.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 11818618,
+    "imgName": "tunisia"
+  },
+  {
+    "name": "Kamerun",
+    "capitalNames": [
+      "Yaunde"
+    ],
+    "gdp": "$45,391M",
+    "gdpPerCapita": "$1,669",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "475442.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "İngilis dili",
+      "Fransız dili"
+    ],
+    "population": 26545864,
+    "imgName": "cameroon"
+  },
+  {
+    "name": "Yaponiya",
+    "capitalNames": [
+      "Tokio"
+    ],
+    "gdp": "$4,932,556M",
+    "gdpPerCapita": "$39,246",
+    "currency": "Yapon yeni",
+    "area": "377930.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "yapon"
+    ],
+    "population": 125836021,
+    "imgName": "japan"
+  },
+  {
+    "name": "Qayana",
+    "capitalNames": [
+      "Corctaun"
+    ],
+    "gdp": "$7,717M",
+    "gdpPerCapita": "$9,591",
+    "currency": "Qayana dolları",
+    "area": "214969.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 786559,
+    "imgName": "guyana"
+  },
+  {
+    "name": "Birləşmiş Krallıq",
+    "capitalNames": [
+      "London"
+    ],
+    "gdp": "$3,131,378M",
+    "gdpPerCapita": "$46,681",
+    "currency": "Britaniya funtu",
+    "area": "242900.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 67215293,
+    "imgName": "united_kingdom"
+  },
+  {
+    "name": "İraq",
+    "capitalNames": [
+      "Bağdad"
+    ],
+    "gdp": "$206,747M",
+    "gdpPerCapita": "$4,749",
+    "currency": "İraq dinarı",
+    "area": "438317.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb",
+      "arami",
+      "Sorani"
+    ],
+    "population": 40222503,
+    "imgName": "iraq"
+  },
+  {
+    "name": "Mərakeş",
+    "capitalNames": [
+      "Rabat"
+    ],
+    "gdp": "$142,867M",
+    "gdpPerCapita": "$3,934",
+    "currency": "Mərakeş dirhəmi",
+    "area": "446550.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb",
+      "berber"
+    ],
+    "population": 36910558,
+    "imgName": "morocco"
+  },
+  {
+    "name": "Papua Yeni Qvineya",
+    "capitalNames": [
+      "Port Moresby"
+    ],
+    "gdp": "$26,594M",
+    "gdpPerCapita": "$2,673",
+    "currency": "Papua Yeni Qvineya kinası",
+    "area": "462840.0",
+    "region": "Okeaniya",
+    "subRegion": "Melaneziya",
+    "languages": [
+      "İngilis dili",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "population": 8947027,
+    "imgName": "papua_new_guinea"
+  },
+  {
+    "name": "Uqanda",
+    "capitalNames": [
+      "Kampala"
+    ],
+    "gdp": "$42,959M",
+    "gdpPerCapita": "$1,012",
+    "currency": "Uqanda şillinqi",
+    "area": "241550.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "suahili"
+    ],
+    "population": 45741000,
+    "imgName": "uganda"
+  },
+  {
+    "name": "Azərbaycan",
+    "capitalNames": [
+      "Bakı"
+    ],
+    "gdp": "$54,622M",
+    "gdpPerCapita": "$5,398",
+    "currency": "Azərbaycan manatı",
+    "area": "86600.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "Azərbaycan",
+      "rus"
+    ],
+    "population": 10110116,
+    "imgName": "azerbaijan"
+  },
+  {
+    "name": "Çexiya",
+    "capitalNames": [
+      "Praqa"
+    ],
+    "gdp": "$290,739M",
+    "gdpPerCapita": "$27,645",
+    "currency": "Çex korunası",
+    "area": "78865.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "çex",
+      "slovak"
+    ],
+    "population": 10698896,
+    "imgName": "czech_republic"
+  },
+  {
+    "name": "Peru",
+    "capitalNames": [
+      "Lima"
+    ],
+    "gdp": "$225,938M",
+    "gdpPerCapita": "$6,701",
+    "currency": "Peru sol",
+    "area": "1285216.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "Aymara",
+      "Keçua",
+      "ispan dili"
+    ],
+    "population": 32971846,
+    "imgName": "peru"
+  },
+  {
+    "name": "Tacikistan",
+    "capitalNames": [
+      "Düşənbə"
+    ],
+    "gdp": "$8,746M",
+    "gdpPerCapita": "$897",
+    "currency": "Tacikistan somonisi",
+    "area": "143100.0",
+    "region": "Asiya",
+    "subRegion": "Orta Asiya",
+    "languages": [
+      "rus",
+      "tacik"
+    ],
+    "population": 9537642,
+    "imgName": "tajikistan"
+  },
+  {
+    "name": "Rumıniya",
+    "capitalNames": [
+      "Buxarest"
+    ],
+    "gdp": "$301,608M",
+    "gdpPerCapita": "$15,842",
+    "currency": "Rumıniya leyi",
+    "area": "238391.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "rumın"
+    ],
+    "population": 19286123,
+    "imgName": "romania"
+  },
+  {
+    "name": "Tonqa",
+    "capitalNames": [
+      "Nuku'alofa"
+    ],
+    "gdp": "$470M",
+    "gdpPerCapita": "$4,433",
+    "currency": "Tonqa paʻanqası",
+    "area": "747.0",
+    "region": "Okeaniya",
+    "subRegion": "Polineziya",
+    "languages": [
+      "İngilis dili",
+      "Tonqa"
+    ],
+    "population": 105697,
+    "imgName": "tonga"
+  },
+  {
+    "name": "Cənubi Sudan",
+    "capitalNames": [
+      "Juba"
+    ],
+    "gdp": "$4,659M",
+    "gdpPerCapita": "$448",
+    "currency": "Cənubi Sudan funtu",
+    "area": "619745.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 11193729,
+    "imgName": "south_sudan"
+  },
+  {
+    "name": "Maldiv adaları",
+    "capitalNames": [
+      "Male"
+    ],
+    "gdp": "$5,406M",
+    "gdpPerCapita": "$10,366",
+    "currency": "Maldiv rufiyası",
+    "area": "300.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "maldiv"
+    ],
+    "population": 540542,
+    "imgName": "maldives"
+  },
+  {
+    "name": "Ruanda",
+    "capitalNames": [
+      "Kiqali"
+    ],
+    "gdp": "$11,067M",
+    "gdpPerCapita": "$822",
+    "currency": "Ruanda frankı",
+    "area": "26338.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "Fransız dili",
+      "Kinyarvanda"
+    ],
+    "population": 12952209,
+    "imgName": "rwanda"
+  },
+  {
+    "name": "Nauru",
+    "capitalNames": [
+      "Yaren"
+    ],
+    "gdp": "$133M",
+    "gdpPerCapita": "$10,647",
+    "currency": "Avstraliya dolları",
+    "area": "21.0",
+    "region": "Okeaniya",
+    "subRegion": "Mikroneziya",
+    "languages": [
+      "İngilis dili",
+      "Nauru"
+    ],
+    "population": 10834,
+    "imgName": "nauru"
+  },
+  {
+    "name": "Portuqaliya",
+    "capitalNames": [
+      "Lissabon"
+    ],
+    "gdp": "$252,171M",
+    "gdpPerCapita": "$24,360",
+    "currency": "avro",
+    "area": "92090.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 10305564,
+    "imgName": "portugal"
+  },
+  {
+    "name": "İran",
+    "capitalNames": [
+      "Tehran"
+    ],
+    "gdp": "$1,589,869M",
+    "gdpPerCapita": "$18,739",
+    "currency": "İran rialı",
+    "area": "1648195.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "Fars (Fars)"
+    ],
+    "population": 83992953,
+    "imgName": "iran"
+  },
+  {
+    "name": "Uruqvay",
+    "capitalNames": [
+      "Montevideo"
+    ],
+    "gdp": "$59,320M",
+    "gdpPerCapita": "$17,313",
+    "currency": "Uruqvay pesosu",
+    "area": "181034.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 3473727,
+    "imgName": "uruguay"
+  },
+  {
+    "name": "Monteneqro",
+    "capitalNames": [
+      "Podqoritsa"
+    ],
+    "gdp": "$5,865M",
+    "gdpPerCapita": "$9,495",
+    "currency": "avro",
+    "area": "13812.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "Monteneqro"
+    ],
+    "population": 621718,
+    "imgName": "montenegro"
+  },
+  {
+    "name": "Türkmənistan",
+    "capitalNames": [
+      "Aşqabad"
+    ],
+    "gdp": "$53,187M",
+    "gdpPerCapita": "$8,509",
+    "currency": "Türkmənistan manatı",
+    "area": "488100.0",
+    "region": "Asiya",
+    "subRegion": "Orta Asiya",
+    "languages": [
+      "rus",
+      "türkmən"
+    ],
+    "population": 6031187,
+    "imgName": "turkmenistan"
+  },
+  {
+    "name": "Yeni Zelandiya",
+    "capitalNames": [
+      "Vellinqton"
+    ],
+    "gdp": "$246,974M",
+    "gdpPerCapita": "$48,317",
+    "currency": "Yeni Zelandiya dolları",
+    "area": "270467.0",
+    "region": "Okeaniya",
+    "subRegion": "Avstraliya və Yeni Zelandiya",
+    "languages": [
+      "İngilis dili",
+      "maori",
+      "Yeni Zelandiya işarə dili"
+    ],
+    "population": 5084300,
+    "imgName": "new_zealand"
+  },
+  {
+    "name": "Şimali Koreya",
+    "capitalNames": [
+      "Pxenyan"
+    ],
+    "gdp": "$17,365M",
+    "gdpPerCapita": "$681",
+    "currency": "Şimali Koreya qalib gəldi",
+    "area": "120538.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "koreyalı"
+    ],
+    "population": 25778815,
+    "imgName": "korea_north"
+  },
+  {
+    "name": "Tayland",
+    "capitalNames": [
+      "Banqkok"
+    ],
+    "gdp": "$505,902M",
+    "gdpPerCapita": "$7,232",
+    "currency": "Tay bahtı",
+    "area": "513120.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "Tay"
+    ],
+    "population": 69799978,
+    "imgName": "thailand"
+  },
+  {
+    "name": "Hindistan",
+    "capitalNames": [
+      "Yeni Dehli"
+    ],
+    "gdp": "$3,176,296M",
+    "gdpPerCapita": "$2,257",
+    "currency": "Hindistan rupisi",
+    "area": "3287590.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "İngilis dili",
+      "hind",
+      "tamil"
+    ],
+    "population": 1380004385,
+    "imgName": "india"
+  },
+  {
+    "name": "Liviya",
+    "capitalNames": [
+      "Tripoli"
+    ],
+    "gdp": "$39,007M",
+    "gdpPerCapita": "$5,791",
+    "currency": "Liviya dinarı",
+    "area": "1759540.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 6871287,
+    "imgName": "libya"
+  },
+  {
+    "name": "Mozambik",
+    "capitalNames": [
+      "Maputo"
+    ],
+    "gdp": "$15,777M",
+    "gdpPerCapita": "$492",
+    "currency": "Mozambik metikali",
+    "area": "801590.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 31255435,
+    "imgName": "mozambique"
+  },
+  {
+    "name": "Şərqi Timor",
+    "capitalNames": [
+      "Dili"
+    ],
+    "gdp": "$3,621M",
+    "gdpPerCapita": "$2,741",
+    "currency": "ABŞ dolları",
+    "area": "14874.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "portuqal",
+      "Tetum"
+    ],
+    "population": 1318442,
+    "imgName": "east_timor"
+  },
+  {
+    "name": "Efiopiya",
+    "capitalNames": [
+      "Əddis-Əbəbə"
+    ],
+    "gdp": "$99,269M",
+    "gdpPerCapita": "$996",
+    "currency": "Efiopiya birri",
+    "area": "1104300.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "amhar"
+    ],
+    "population": 114963583,
+    "imgName": "ethiopia"
+  },
+  {
+    "name": "Litva",
+    "capitalNames": [
+      "Vilnüs"
+    ],
+    "gdp": "$70,465M",
+    "gdpPerCapita": "$25,112",
+    "currency": "avro",
+    "area": "65300.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "litva"
+    ],
+    "population": 2794700,
+    "imgName": "lithuania"
+  },
+  {
+    "name": "Livan",
+    "capitalNames": [
+      "Beyrut"
+    ],
+    "gdp": "$23,132M",
+    "gdpPerCapita": "$4,136",
+    "currency": "Livan funtu",
+    "area": "10452.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb",
+      "Fransız dili"
+    ],
+    "population": 6825442,
+    "imgName": "lebanon"
+  },
+  {
+    "name": "Moldova",
+    "capitalNames": [
+      "Kişinev"
+    ],
+    "gdp": "$13,691M",
+    "gdpPerCapita": "$5,235",
+    "currency": "Moldova leyi",
+    "area": "33846.0",
+    "region": "Avropa",
+    "subRegion": "Şərqi Avropa",
+    "languages": [
+      "rumın"
+    ],
+    "population": 2617820,
+    "imgName": "moldova"
+  },
+  {
+    "name": "Laos",
+    "capitalNames": [
+      "Vientiane"
+    ],
+    "gdp": "$18,827M",
+    "gdpPerCapita": "$2,536",
+    "currency": "Lao kip",
+    "area": "236800.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "Lao"
+    ],
+    "population": 7275556,
+    "imgName": "laos"
+  },
+  {
+    "name": "Nigeriya",
+    "capitalNames": [
+      "Abuja"
+    ],
+    "gdp": "$440,834M",
+    "gdpPerCapita": "$2,066",
+    "currency": "Nigeriya nairası",
+    "area": "923768.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 206139587,
+    "imgName": "nigeria"
+  },
+  {
+    "name": "Çili",
+    "capitalNames": [
+      "Santyaqo"
+    ],
+    "gdp": "$316,770M",
+    "gdpPerCapita": "$16,250",
+    "currency": "Çili pesosu",
+    "area": "756102.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 19116209,
+    "imgName": "chile"
+  },
+  {
+    "name": "Xorvatiya",
+    "capitalNames": [
+      "Zaqreb"
+    ],
+    "gdp": "$70,958M",
+    "gdpPerCapita": "$18,292",
+    "currency": "avro",
+    "area": "56594.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "xorvat"
+    ],
+    "population": 4047200,
+    "imgName": "croatia"
+  },
+  {
+    "name": "Barbados",
+    "capitalNames": [
+      "Bridgetown"
+    ],
+    "gdp": "$4,844M",
+    "gdpPerCapita": "$17,225",
+    "currency": "Barbados dolları",
+    "area": "430.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 287371,
+    "imgName": "barbados"
+  },
+  {
+    "name": "Mərkəzi Afrika Respublikası",
+    "capitalNames": [
+      "Bangui"
+    ],
+    "gdp": "$2,517M",
+    "gdpPerCapita": "$461",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "622984.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "Fransız dili",
+      "Sanqo"
+    ],
+    "population": 4829764,
+    "imgName": "central_african_republic"
+  },
+  {
+    "name": "Zambiya",
+    "capitalNames": [
+      "Lusaka"
+    ],
+    "gdp": "$21,313M",
+    "gdpPerCapita": "$1,094",
+    "currency": "Zambiya kvaçası",
+    "area": "752612.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 18383956,
+    "imgName": "zambia"
+  },
+  {
+    "name": "Burundi",
+    "capitalNames": [
+      "Giteqa"
+    ],
+    "gdp": "$2,780M",
+    "gdpPerCapita": "$221",
+    "currency": "Burundi frankı",
+    "area": "27834.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "Fransız dili",
+      "Kirundi"
+    ],
+    "population": 11890781,
+    "imgName": "burundi"
+  },
+  {
+    "name": "Sierra Leone",
+    "capitalNames": [
+      "Fritaun"
+    ],
+    "gdp": "$4,148M",
+    "gdpPerCapita": "$509",
+    "currency": "Sierra Leone Leone",
+    "area": "71740.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 7976985,
+    "imgName": "sierra_leone"
+  },
+  {
+    "name": "Somali",
+    "capitalNames": [
+      "Moqadişu"
+    ],
+    "gdp": "$7,628M",
+    "gdpPerCapita": "$447",
+    "currency": "Somali şillinqi",
+    "area": "637657.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "ərəb",
+      "Somali"
+    ],
+    "population": 15893219,
+    "imgName": "somalia"
+  },
+  {
+    "name": "Səudiyyə Ərəbistanı",
+    "capitalNames": [
+      "Ər-Riyad"
+    ],
+    "gdp": "$833,541M",
+    "gdpPerCapita": "$23,186",
+    "currency": "Səudiyyə riyalı",
+    "area": "2149690.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 34813867,
+    "imgName": "saudi_arabia"
+  },
+  {
+    "name": "Birləşmiş Ərəb Əmirlikləri",
+    "capitalNames": [
+      "Abu Dabi"
+    ],
+    "gdp": "$415,022M",
+    "gdpPerCapita": "$44,316",
+    "currency": "Birləşmiş Ərəb Əmirlikləri dirhəmi",
+    "area": "83600.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 9890400,
+    "imgName": "united_arab_emirates"
+  },
+  {
+    "name": "Kamboca",
+    "capitalNames": [
+      "Phnom Penh"
+    ],
+    "gdp": "$26,961M",
+    "gdpPerCapita": "$1,625",
+    "currency": "Kamboca rieli",
+    "area": "181035.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "kxmer"
+    ],
+    "population": 16718971,
+    "imgName": "cambodia"
+  },
+  {
+    "name": "Namibiya",
+    "capitalNames": [
+      "Windhoek"
+    ],
+    "gdp": "$12,307M",
+    "gdpPerCapita": "$4,826",
+    "currency": "Namibiya dolları",
+    "area": "825615.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "Afrikaans",
+      "alman",
+      "İngilis dili",
+      "Herero",
+      "Khoekhoe",
+      "Kvanqali",
+      "Lozi",
+      "Ndonqa",
+      "svana"
+    ],
+    "population": 2540916,
+    "imgName": "namibia"
+  },
+  {
+    "name": "Tanzaniya",
+    "capitalNames": [
+      "Dodoma"
+    ],
+    "gdp": "$70,309M",
+    "gdpPerCapita": "$1,106",
+    "currency": "Tanzaniya şillinqi",
+    "area": "945087.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "suahili"
+    ],
+    "population": 59734213,
+    "imgName": "tanzania"
+  },
+  {
+    "name": "Fici",
+    "capitalNames": [
+      "Suva"
+    ],
+    "gdp": "$4,296M",
+    "gdpPerCapita": "$4,646",
+    "currency": "Fici dolları",
+    "area": "18272.0",
+    "region": "Okeaniya",
+    "subRegion": "Melaneziya",
+    "languages": [
+      "İngilis dili",
+      "fici dili",
+      "Fici hindi"
+    ],
+    "population": 896444,
+    "imgName": "fiji"
+  },
+  {
+    "name": "Sinqapur",
+    "capitalNames": [
+      "Sinqapur"
+    ],
+    "gdp": "$396,992M",
+    "gdpPerCapita": "$72,795",
+    "currency": "Sinqapur dolları",
+    "area": "710.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "çinli",
+      "İngilis dili",
+      "malay",
+      "tamil"
+    ],
+    "population": 5685807,
+    "imgName": "singapore"
+  },
+  {
+    "name": "Dominik respublikası",
+    "capitalNames": [
+      "Santo Dominqo"
+    ],
+    "gdp": "$94,714M",
+    "gdpPerCapita": "$8,519",
+    "currency": "Dominikan pesosu",
+    "area": "48671.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 10847904,
+    "imgName": "dominican_republic"
+  },
+  {
+    "name": "Amerika Birləşmiş Ştatları",
+    "capitalNames": [
+      "Vaşinqton, D.C."
+    ],
+    "gdp": "$25,464,500M",
+    "gdpPerCapita": "$76,658",
+    "currency": "ABŞ dolları",
+    "area": "9372610.0",
+    "region": "Amerika",
+    "subRegion": "Şimali Amerika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 329484123,
+    "imgName": "united_states_of_america"
+  },
+  {
+    "name": "Venesuela",
+    "capitalNames": [
+      "Karakas"
+    ],
+    "gdp": "$102,084M",
+    "gdpPerCapita": "$3,423",
+    "currency": "Venesuela bolivarı soberano",
+    "area": "916445.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 28435943,
+    "imgName": "venezuela"
+  },
+  {
+    "name": "Belarusiya",
+    "capitalNames": [
+      "Minsk"
+    ],
+    "gdp": "$68,205M",
+    "gdpPerCapita": "$7,302",
+    "currency": "Belarus rublu",
+    "area": "207600.0",
+    "region": "Avropa",
+    "subRegion": "Şərqi Avropa",
+    "languages": [
+      "belarus",
+      "rus"
+    ],
+    "population": 9398861,
+    "imgName": "belarus"
+  },
+  {
+    "name": "Nepal",
+    "capitalNames": [
+      "Katmandu"
+    ],
+    "gdp": "$36,289M",
+    "gdpPerCapita": "$1,208",
+    "currency": "Nepal rupisi",
+    "area": "147181.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "nepal dili"
+    ],
+    "population": 29136808,
+    "imgName": "nepal"
+  },
+  {
+    "name": "Cənubi Afrika",
+    "capitalNames": [
+      "Pretoriya",
+      "Bloemfontein",
+      "Keyptaun"
+    ],
+    "gdp": "$418,907M",
+    "gdpPerCapita": "$6,965",
+    "currency": "Cənubi Afrika randı",
+    "area": "1221037.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "Afrikaans",
+      "İngilis dili",
+      "Cənubi Ndebele",
+      "Şimali Soto",
+      "Cənubi Soto",
+      "svaz dili",
+      "svana",
+      "Tsonqa",
+      "Venda",
+      "Xosa",
+      "Zulu"
+    ],
+    "population": 59308690,
+    "imgName": "south_africa"
+  },
+  {
+    "name": "Polşa",
+    "capitalNames": [
+      "Varşava"
+    ],
+    "gdp": "$689,340M",
+    "gdpPerCapita": "$18,307",
+    "currency": "Polşa zlotisi",
+    "area": "312679.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "polyak"
+    ],
+    "population": 37950802,
+    "imgName": "poland"
+  },
+  {
+    "name": "Malayziya",
+    "capitalNames": [
+      "Kuala Lumpur"
+    ],
+    "gdp": "$373,034M",
+    "gdpPerCapita": "$11,408",
+    "currency": "Malayziya ringgiti",
+    "area": "330803.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "İngilis dili",
+      "malay"
+    ],
+    "population": 32365998,
+    "imgName": "malaysia"
+  },
+  {
+    "name": "Palau",
+    "capitalNames": [
+      "Ngerulmud"
+    ],
+    "gdp": "$218M",
+    "gdpPerCapita": "$12,095",
+    "currency": "ABŞ dolları",
+    "area": "459.0",
+    "region": "Okeaniya",
+    "subRegion": "Mikroneziya",
+    "languages": [
+      "İngilis dili",
+      "palauan"
+    ],
+    "population": 18092,
+    "imgName": "palau"
+  },
+  {
+    "name": "Qana",
+    "capitalNames": [
+      "Akra"
+    ],
+    "gdp": "$79,157M",
+    "gdpPerCapita": "$2,521",
+    "currency": "Qana sedisi",
+    "area": "238533.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 31072945,
+    "imgName": "ghana"
+  },
+  {
+    "name": "Bosniya və Herseqovina",
+    "capitalNames": [
+      "Sarayevo"
+    ],
+    "gdp": "$23,365M",
+    "gdpPerCapita": "$6,712",
+    "currency": "Bosniya və Herseqovina konvertasiya markası",
+    "area": "51209.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "bosniyalı",
+      "xorvat",
+      "serb"
+    ],
+    "population": 3280815,
+    "imgName": "bosnia_and_herzegovina"
+  },
+  {
+    "name": "Monako",
+    "capitalNames": [
+      "Monako"
+    ],
+    "gdp": "$8,596M",
+    "gdpPerCapita": "$234,316",
+    "currency": "avro",
+    "area": "2.02",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 39244,
+    "imgName": "monaco"
+  },
+  {
+    "name": "Almaniya",
+    "capitalNames": [
+      "Berlin"
+    ],
+    "gdp": "$4,072,004M",
+    "gdpPerCapita": "$48,921",
+    "currency": "avro",
+    "area": "357114.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "alman"
+    ],
+    "population": 83240525,
+    "imgName": "germany"
+  },
+  {
+    "name": "İordaniya",
+    "capitalNames": [
+      "Amman"
+    ],
+    "gdp": "$45,744M",
+    "gdpPerCapita": "$4,103",
+    "currency": "İordaniya dinarı",
+    "area": "89342.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 10203140,
+    "imgName": "jordan"
+  },
+  {
+    "name": "Belçika",
+    "capitalNames": [
+      "Brüssel"
+    ],
+    "gdp": "$581,726M",
+    "gdpPerCapita": "$50,015",
+    "currency": "avro",
+    "area": "30528.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "alman",
+      "Fransız dili",
+      "holland"
+    ],
+    "population": 11555997,
+    "imgName": "belgium"
+  },
+  {
+    "name": "Baham adaları",
+    "capitalNames": [
+      "Nassau"
+    ],
+    "gdp": "$11,209M",
+    "gdpPerCapita": "$27,479",
+    "currency": "Baham dolları",
+    "area": "13943.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 393248,
+    "imgName": "bahamas"
+  },
+  {
+    "name": "Qırğızıstan",
+    "capitalNames": [
+      "Bişkek"
+    ],
+    "gdp": "$8,538M",
+    "gdpPerCapita": "$1,276",
+    "currency": "Qırğızıstan somu",
+    "area": "199951.0",
+    "region": "Asiya",
+    "subRegion": "Orta Asiya",
+    "languages": [
+      "qırğız",
+      "rus"
+    ],
+    "population": 6591600,
+    "imgName": "kyrgyzstan"
+  },
+  {
+    "name": "Vanuatu",
+    "capitalNames": [
+      "Port Vila"
+    ],
+    "gdp": "$956M",
+    "gdpPerCapita": "$2,997",
+    "currency": "Vanuatu vatu",
+    "area": "12189.0",
+    "region": "Okeaniya",
+    "subRegion": "Melaneziya",
+    "languages": [
+      "Bislama",
+      "İngilis dili",
+      "Fransız dili"
+    ],
+    "population": 307150,
+    "imgName": "vanuatu"
+  },
+  {
+    "name": "Tuvalu",
+    "capitalNames": [
+      "Funafuti"
+    ],
+    "gdp": "$63M",
+    "gdpPerCapita": "$5,632",
+    "currency": "Avstraliya dolları",
+    "area": "26.0",
+    "region": "Okeaniya",
+    "subRegion": "Polineziya",
+    "languages": [
+      "İngilis dili",
+      "tuvalu dili"
+    ],
+    "population": 11792,
+    "imgName": "tuvalu"
+  },
+  {
+    "name": "Honduras",
+    "capitalNames": [
+      "Tequsiqalpa"
+    ],
+    "gdp": "$28,490M",
+    "gdpPerCapita": "$2,816",
+    "currency": "Honduras lempirası",
+    "area": "112492.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 9904608,
+    "imgName": "honduras"
+  },
+  {
+    "name": "Solomon adaları",
+    "capitalNames": [
+      "Honiara"
+    ],
+    "gdp": "$1,632M",
+    "gdpPerCapita": "$2,305",
+    "currency": "Solomon adaları dolları",
+    "area": "28896.0",
+    "region": "Okeaniya",
+    "subRegion": "Melaneziya",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 686878,
+    "imgName": "solomon_islands"
+  },
+  {
+    "name": "Benin",
+    "capitalNames": [
+      "Porto-Novo"
+    ],
+    "gdp": "$17,699M",
+    "gdpPerCapita": "$1,362",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "112622.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 12123198,
+    "imgName": "benin"
+  },
+  {
+    "name": "Danimarka",
+    "capitalNames": [
+      "Kopenhagen"
+    ],
+    "gdp": "$395,129M",
+    "gdpPerCapita": "$67,274",
+    "currency": "Danimarka kronu",
+    "area": "43094.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "danimarka"
+    ],
+    "population": 5831404,
+    "imgName": "denmark"
+  },
+  {
+    "name": "Samoa",
+    "capitalNames": [
+      "Apia"
+    ],
+    "gdp": "$844M",
+    "gdpPerCapita": "$3,858",
+    "currency": "Samoa talası",
+    "area": "2842.0",
+    "region": "Okeaniya",
+    "subRegion": "Polineziya",
+    "languages": [
+      "İngilis dili",
+      "samoa"
+    ],
+    "population": 198410,
+    "imgName": "samoa"
+  },
+  {
+    "name": "Niger",
+    "capitalNames": [
+      "Niamey"
+    ],
+    "gdp": "$14,915M",
+    "gdpPerCapita": "$591",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "1267000.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 24206636,
+    "imgName": "niger"
+  },
+  {
+    "name": "Saint Kitts və Nevis",
+    "capitalNames": [
+      "Basseterre"
+    ],
+    "gdp": "$861M",
+    "gdpPerCapita": "$18,082",
+    "currency": "Şərqi Karib dolları",
+    "area": "261.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 53192,
+    "imgName": "saint_kitts_and_nevis"
+  },
+  {
+    "name": "Bruney",
+    "capitalNames": [
+      "Bandar Seri Begawan"
+    ],
+    "gdp": "$14,006M",
+    "gdpPerCapita": "$32,573",
+    "currency": "Bruney dolları",
+    "area": "5765.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "malay"
+    ],
+    "population": 437483,
+    "imgName": "brunei"
+  },
+  {
+    "name": "Əfqanıstan",
+    "capitalNames": [
+      "Kabil"
+    ],
+    "gdp": "$14,787M",
+    "gdpPerCapita": "$369",
+    "currency": "əfqan əfqan",
+    "area": "652230.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "Dari",
+      "puştu",
+      "türkmən"
+    ],
+    "population": 40218234,
+    "imgName": "afghanistan"
+  },
+  {
+    "name": "Cibuti",
+    "capitalNames": [
+      "Cibuti"
+    ],
+    "gdp": "$3,483M",
+    "gdpPerCapita": "$3,476",
+    "currency": "Cibuti frankı",
+    "area": "23200.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "ərəb",
+      "Fransız dili"
+    ],
+    "population": 988002,
+    "imgName": "djibouti"
+  },
+  {
+    "name": "Sudan",
+    "capitalNames": [
+      "Xartum"
+    ],
+    "gdp": "$34,326M",
+    "gdpPerCapita": "$752",
+    "currency": "Sudan funtu",
+    "area": "1886068.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb",
+      "İngilis dili"
+    ],
+    "population": 43849269,
+    "imgName": "sudan"
+  },
+  {
+    "name": "Malta",
+    "capitalNames": [
+      "Valletta"
+    ],
+    "gdp": "$17,764M",
+    "gdpPerCapita": "$34,099",
+    "currency": "avro",
+    "area": "316.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "İngilis dili",
+      "maltalı"
+    ],
+    "population": 525285,
+    "imgName": "malta"
+  },
+  {
+    "name": "Müqəddəs Lusiya",
+    "capitalNames": [
+      "Castries"
+    ],
+    "gdp": "$1,691M",
+    "gdpPerCapita": "$9,413",
+    "currency": "Şərqi Karib dolları",
+    "area": "616.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 183629,
+    "imgName": "saint_lucia"
+  },
+  {
+    "name": "Cənubi Koreya",
+    "capitalNames": [
+      "Seul"
+    ],
+    "gdp": "$1,797,810M",
+    "gdpPerCapita": "$34,744",
+    "currency": "Cənubi Koreya qalib gəldi",
+    "area": "100210.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "koreyalı"
+    ],
+    "population": 51780579,
+    "imgName": "korea_south"
+  },
+  {
+    "name": "Butan",
+    "capitalNames": [
+      "Thimphu"
+    ],
+    "gdp": "$2,442M",
+    "gdpPerCapita": "$3,245",
+    "currency": "Butan ngultrum",
+    "area": "38394.0",
+    "region": "Asiya",
+    "subRegion": "Cənubi Asiya",
+    "languages": [
+      "Dzonqa"
+    ],
+    "population": 771612,
+    "imgName": "bhutan"
+  },
+  {
+    "name": "DR Konqo",
+    "capitalNames": [
+      "Kinşasa"
+    ],
+    "gdp": "$55,351M",
+    "gdpPerCapita": "$577",
+    "currency": "Konqo frankı",
+    "area": "2344858.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "Fransız dili",
+      "Kikonqo",
+      "Linqala",
+      "Tşiluba",
+      "suahili"
+    ],
+    "population": 108407721,
+    "imgName": "democratic_republic_of_the_congo"
+  },
+  {
+    "name": "Macarıstan",
+    "capitalNames": [
+      "Budapeşt"
+    ],
+    "gdp": "$178,654M",
+    "gdpPerCapita": "$18,439",
+    "currency": "Macar forinti",
+    "area": "93028.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "macar"
+    ],
+    "population": 9749763,
+    "imgName": "hungary"
+  },
+  {
+    "name": "Oman",
+    "capitalNames": [
+      "Maskat"
+    ],
+    "gdp": "$85,869M",
+    "gdpPerCapita": "$18,966",
+    "currency": "Oman rialı",
+    "area": "309500.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 5106622,
+    "imgName": "oman"
+  },
+  {
+    "name": "Rusiya",
+    "capitalNames": [
+      "Moskva"
+    ],
+    "gdp": "$1,778,530M",
+    "gdpPerCapita": "$12,219",
+    "currency": "rus rublu",
+    "area": "1.7098242E7",
+    "region": "Avropa",
+    "subRegion": "Şərqi Avropa",
+    "languages": [
+      "rus"
+    ],
+    "population": 144104080,
+    "imgName": "russia"
+  },
+  {
+    "name": "Çin",
+    "capitalNames": [
+      "Pekin"
+    ],
+    "gdp": "$17,744,640M",
+    "gdpPerCapita": "$12,564",
+    "currency": "Çin yuanı",
+    "area": "9706961.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "çinli"
+    ],
+    "population": 1402112000,
+    "imgName": "china"
+  },
+  {
+    "name": "Küveyt",
+    "capitalNames": [
+      "Küveyt şəhəri"
+    ],
+    "gdp": "$105,949M",
+    "gdpPerCapita": "$22,684",
+    "currency": "Küveyt dinarı",
+    "area": "17818.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 4270563,
+    "imgName": "kuwait"
+  },
+  {
+    "name": "İsveç",
+    "capitalNames": [
+      "Stokholm"
+    ],
+    "gdp": "$587,081M",
+    "gdpPerCapita": "$56,167",
+    "currency": "isveç kronu",
+    "area": "450295.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "isveçli"
+    ],
+    "population": 10353442,
+    "imgName": "sweden"
+  },
+  {
+    "name": "Botsvana",
+    "capitalNames": [
+      "Qaborone"
+    ],
+    "gdp": "$17,614M",
+    "gdpPerCapita": "$6,805",
+    "currency": "Botsvana pulası",
+    "area": "582000.0",
+    "region": "Afrika",
+    "subRegion": "Cənubi Afrika",
+    "languages": [
+      "İngilis dili",
+      "svana"
+    ],
+    "population": 2351625,
+    "imgName": "botswana"
+  },
+  {
+    "name": "Komor adaları",
+    "capitalNames": [
+      "Moroni"
+    ],
+    "gdp": "$1,296M",
+    "gdpPerCapita": "$1,577",
+    "currency": "Komoriya frankı",
+    "area": "1862.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "ərəb",
+      "Fransız dili",
+      "komoriyalı"
+    ],
+    "population": 869595,
+    "imgName": "comoros"
+  },
+  {
+    "name": "El Salvador",
+    "capitalNames": [
+      "San Salvador"
+    ],
+    "gdp": "$28,737M",
+    "gdpPerCapita": "$4,551",
+    "currency": "ABŞ dolları",
+    "area": "21041.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 6486201,
+    "imgName": "el_salvador"
+  },
+  {
+    "name": "Əlcəzair",
+    "capitalNames": [
+      "Əlcəzair"
+    ],
+    "gdp": "$162,711M",
+    "gdpPerCapita": "$3,683",
+    "currency": "Əlcəzair dinarı",
+    "area": "2381741.0",
+    "region": "Afrika",
+    "subRegion": "Şimali Afrika",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 44700000,
+    "imgName": "algeria"
+  },
+  {
+    "name": "Haiti",
+    "capitalNames": [
+      "Port-au-Prens"
+    ],
+    "gdp": "$21,017M",
+    "gdpPerCapita": "$1,836",
+    "currency": "Haiti gurdu",
+    "area": "27750.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "Fransız dili",
+      "Haiti Kreol"
+    ],
+    "population": 11402533,
+    "imgName": "haiti"
+  },
+  {
+    "name": "Avstraliya",
+    "capitalNames": [
+      "Kanberra"
+    ],
+    "gdp": "$1,635,255M",
+    "gdpPerCapita": "$63,464",
+    "currency": "Avstraliya dolları",
+    "area": "7692024.0",
+    "region": "Okeaniya",
+    "subRegion": "Avstraliya və Yeni Zelandiya",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 25687041,
+    "imgName": "australia"
+  },
+  {
+    "name": "Bolqarıstan",
+    "capitalNames": [
+      "Sofiya"
+    ],
+    "gdp": "$89,042M",
+    "gdpPerCapita": "$13,020",
+    "currency": "Bolqar lev",
+    "area": "110879.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "bolqar"
+    ],
+    "population": 6927288,
+    "imgName": "bulgaria"
+  },
+  {
+    "name": "Serbiya",
+    "capitalNames": [
+      "Belqrad"
+    ],
+    "gdp": "$63,567M",
+    "gdpPerCapita": "$9,352",
+    "currency": "serb dinarı",
+    "area": "88361.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "serb"
+    ],
+    "population": 6908224,
+    "imgName": "serbia"
+  },
+  {
+    "name": "Yunanıstan",
+    "capitalNames": [
+      "Afina"
+    ],
+    "gdp": "$219,056M",
+    "gdpPerCapita": "$20,658",
+    "currency": "avro",
+    "area": "131990.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "yunan"
+    ],
+    "population": 10715549,
+    "imgName": "greece"
+  },
+  {
+    "name": "Konqo Respublikası",
+    "capitalNames": [
+      "Brazzavil"
+    ],
+    "gdp": "$13,366M",
+    "gdpPerCapita": "$2,290",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "342000.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "Fransız dili",
+      "Kikonqo",
+      "Linqala"
+    ],
+    "population": 5657000,
+    "imgName": "republic_of_the_congo"
+  },
+  {
+    "name": "Latviya",
+    "capitalNames": [
+      "Riqa"
+    ],
+    "gdp": "$41,152M",
+    "gdpPerCapita": "$21,939",
+    "currency": "avro",
+    "area": "64559.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "latış"
+    ],
+    "population": 1901548,
+    "imgName": "latvia"
+  },
+  {
+    "name": "Kuba",
+    "capitalNames": [
+      "Havana"
+    ],
+    "gdp": "$107,352M",
+    "gdpPerCapita": "$9,500",
+    "currency": "Kubanın konvertasiya oluna bilən pesosu",
+    "area": "109884.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 11326616,
+    "imgName": "cuba"
+  },
+  {
+    "name": "İrlandiya",
+    "capitalNames": [
+      "Dublin"
+    ],
+    "gdp": "$529,220M",
+    "gdpPerCapita": "$104,589",
+    "currency": "avro",
+    "area": "70273.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "İngilis dili",
+      "irland"
+    ],
+    "population": 4994724,
+    "imgName": "ireland"
+  },
+  {
+    "name": "Finlandiya",
+    "capitalNames": [
+      "Helsinki"
+    ],
+    "gdp": "$280,516M",
+    "gdpPerCapita": "$50,559",
+    "currency": "avro",
+    "area": "338424.0",
+    "region": "Avropa",
+    "subRegion": "Şimali Avropa",
+    "languages": [
+      "fin",
+      "isveçli"
+    ],
+    "population": 5530719,
+    "imgName": "finland"
+  },
+  {
+    "name": "Fransa",
+    "capitalNames": [
+      "Paris"
+    ],
+    "gdp": "$2,782,777M",
+    "gdpPerCapita": "$41,018",
+    "currency": "avro",
+    "area": "551695.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 67391582,
+    "imgName": "france"
+  },
+  {
+    "name": "Braziliya",
+    "capitalNames": [
+      "Braziliya"
+    ],
+    "gdp": "$1,608,080M",
+    "gdpPerCapita": "$7,503",
+    "currency": "Braziliya realı",
+    "area": "8515767.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 212559409,
+    "imgName": "brazil"
+  },
+  {
+    "name": "Seneqal",
+    "capitalNames": [
+      "Dakar"
+    ],
+    "gdp": "$27,640M",
+    "gdpPerCapita": "$1,638",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "196722.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 16743930,
+    "imgName": "senegal"
+  },
+  {
+    "name": "Kolumbiya",
+    "capitalNames": [
+      "Boqota"
+    ],
+    "gdp": "$314,409M",
+    "gdpPerCapita": "$6,159",
+    "currency": "Kolumbiya pesosu",
+    "area": "1141748.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 50882884,
+    "imgName": "colombia"
+  },
+  {
+    "name": "Getmək",
+    "capitalNames": [
+      "Lome"
+    ],
+    "gdp": "$8,413M",
+    "gdpPerCapita": "$973",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "56785.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 8278737,
+    "imgName": "togo"
+  },
+  {
+    "name": "Filippin",
+    "capitalNames": [
+      "Manila"
+    ],
+    "gdp": "$394,086M",
+    "gdpPerCapita": "$3,576",
+    "currency": "Filippin pesosu",
+    "area": "342353.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "İngilis dili",
+      "Filippin"
+    ],
+    "population": 109581085,
+    "imgName": "philippines"
+  },
+  {
+    "name": "San Marino",
+    "capitalNames": [
+      "San Marino şəhəri"
+    ],
+    "gdp": "$1,543M",
+    "gdpPerCapita": "$45,641",
+    "currency": "avro",
+    "area": "61.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "italyan"
+    ],
+    "population": 33938,
+    "imgName": "san_marino"
+  },
+  {
+    "name": "Albaniya",
+    "capitalNames": [
+      "Tirana"
+    ],
+    "gdp": "$18,256M",
+    "gdpPerCapita": "$6,535",
+    "currency": "alban lek",
+    "area": "28748.0",
+    "region": "Avropa",
+    "subRegion": "Cənub-Şərqi Avropa",
+    "languages": [
+      "alban"
+    ],
+    "population": 2837743,
+    "imgName": "albania"
+  },
+  {
+    "name": "Lüksemburq",
+    "capitalNames": [
+      "Lüksemburq"
+    ],
+    "gdp": "$85,506M",
+    "gdpPerCapita": "$132,486",
+    "currency": "avro",
+    "area": "2586.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "alman",
+      "Fransız dili",
+      "Lüksemburq"
+    ],
+    "population": 632275,
+    "imgName": "luxembourg"
+  },
+  {
+    "name": "Surinam",
+    "capitalNames": [
+      "Paramaribo"
+    ],
+    "gdp": "$2,985M",
+    "gdpPerCapita": "$4,869",
+    "currency": "Surinam dolları",
+    "area": "163820.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "holland"
+    ],
+    "population": 586634,
+    "imgName": "suriname"
+  },
+  {
+    "name": "Avstriya",
+    "capitalNames": [
+      "Vyana"
+    ],
+    "gdp": "$471,378M",
+    "gdpPerCapita": "$52,498",
+    "currency": "avro",
+    "area": "83871.0",
+    "region": "Avropa",
+    "subRegion": "Mərkəzi Avropa",
+    "languages": [
+      "Avstriya-Bavariya alman"
+    ],
+    "population": 8917205,
+    "imgName": "austria"
+  },
+  {
+    "name": "Marşal adaları",
+    "capitalNames": [
+      "Majuro"
+    ],
+    "gdp": "$257M",
+    "gdpPerCapita": "$6,112",
+    "currency": "ABŞ dolları",
+    "area": "181.0",
+    "region": "Okeaniya",
+    "subRegion": "Mikroneziya",
+    "languages": [
+      "İngilis dili",
+      "marşal"
+    ],
+    "population": 59194,
+    "imgName": "marshall_islands"
+  },
+  {
+    "name": "Liberiya",
+    "capitalNames": [
+      "Monroviya"
+    ],
+    "gdp": "$3,509M",
+    "gdpPerCapita": "$676",
+    "currency": "Liberiya dolları",
+    "area": "111369.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 5057677,
+    "imgName": "liberia"
+  },
+  {
+    "name": "Argentina",
+    "capitalNames": [
+      "Buenos Ayres"
+    ],
+    "gdp": "$487,227M",
+    "gdpPerCapita": "$10,636",
+    "currency": "Argentina pesosu",
+    "area": "2780400.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "Guaraní",
+      "ispan dili"
+    ],
+    "population": 45376763,
+    "imgName": "argentina"
+  },
+  {
+    "name": "İndoneziya",
+    "capitalNames": [
+      "Cakarta"
+    ],
+    "gdp": "$1,187,319M",
+    "gdpPerCapita": "$4,361",
+    "currency": "İndoneziya rupisi",
+    "area": "1904569.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "indoneziya dili"
+    ],
+    "population": 273523621,
+    "imgName": "indonesia"
+  },
+  {
+    "name": "Burkina Faso",
+    "capitalNames": [
+      "Uagaduqu"
+    ],
+    "gdp": "$19,738M",
+    "gdpPerCapita": "$893",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "272967.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 20903278,
+    "imgName": "burkina_faso"
+  },
+  {
+    "name": "Qrenada",
+    "capitalNames": [
+      "St George's"
+    ],
+    "gdp": "$1,115M",
+    "gdpPerCapita": "$8,948",
+    "currency": "Şərqi Karib dolları",
+    "area": "344.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 112519,
+    "imgName": "grenada"
+  },
+  {
+    "name": "Seyşel adaları",
+    "capitalNames": [
+      "Viktoriya"
+    ],
+    "gdp": "$1,457M",
+    "gdpPerCapita": "$14,679",
+    "currency": "Seyşel rupisi",
+    "area": "452.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "Seyşel adaları kreoli",
+      "İngilis dili",
+      "Fransız dili"
+    ],
+    "population": 98462,
+    "imgName": "seychelles"
+  },
+  {
+    "name": "Qətər",
+    "capitalNames": [
+      "Doha"
+    ],
+    "gdp": "$179,677M",
+    "gdpPerCapita": "$66,838",
+    "currency": "Qətər riyalı",
+    "area": "11586.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 2881060,
+    "imgName": "qatar"
+  },
+  {
+    "name": "Kanada",
+    "capitalNames": [
+      "Ottava"
+    ],
+    "gdp": "$1,988,336M",
+    "gdpPerCapita": "$52,015",
+    "currency": "Kanada dolları",
+    "area": "9984670.0",
+    "region": "Amerika",
+    "subRegion": "Şimali Amerika",
+    "languages": [
+      "İngilis dili",
+      "Fransız dili"
+    ],
+    "population": 38005238,
+    "imgName": "canada"
+  },
+  {
+    "name": "Honq Konq",
+    "capitalNames": [
+      "Viktoriya şəhəri"
+    ],
+    "gdp": "$369,158M",
+    "gdpPerCapita": "$49,865",
+    "currency": "Honq Konq dolları",
+    "area": "1104.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "İngilis dili",
+      "çinli"
+    ],
+    "population": 7500700,
+    "imgName": "hong_kong"
+  },
+  {
+    "name": "Ekvador",
+    "capitalNames": [
+      "Quito"
+    ],
+    "gdp": "$106,166M",
+    "gdpPerCapita": "$5,965",
+    "currency": "ABŞ dolları",
+    "area": "276841.0",
+    "region": "Amerika",
+    "subRegion": "Cənubi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 17643060,
+    "imgName": "ecuador"
+  },
+  {
+    "name": "İsrail",
+    "capitalNames": [
+      "Yerusəlim"
+    ],
+    "gdp": "$488,527M",
+    "gdpPerCapita": "$52,152",
+    "currency": "Yeni İsrail şekeli",
+    "area": "20770.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb",
+      "ivrit"
+    ],
+    "population": 9216900,
+    "imgName": "israel"
+  },
+  {
+    "name": "Hollandiya",
+    "capitalNames": [
+      "Amsterdam"
+    ],
+    "gdp": "$992,854M",
+    "gdpPerCapita": "$56,442",
+    "currency": "avro",
+    "area": "41850.0",
+    "region": "Avropa",
+    "subRegion": "Qərbi Avropa",
+    "languages": [
+      "holland"
+    ],
+    "population": 16655799,
+    "imgName": "netherlands"
+  },
+  {
+    "name": "Keniya",
+    "capitalNames": [
+      "Nayrobi"
+    ],
+    "gdp": "$110,519M",
+    "gdpPerCapita": "$2,085",
+    "currency": "Keniya şillinqi",
+    "area": "580367.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "İngilis dili",
+      "suahili"
+    ],
+    "population": 53771300,
+    "imgName": "kenya"
+  },
+  {
+    "name": "Qabon",
+    "capitalNames": [
+      "Librevil"
+    ],
+    "gdp": "$20,242M",
+    "gdpPerCapita": "$8,646",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "267668.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 2225728,
+    "imgName": "gabon"
+  },
+  {
+    "name": "Monqolustan",
+    "capitalNames": [
+      "Ulan-Bator"
+    ],
+    "gdp": "$15,286M",
+    "gdpPerCapita": "$4,483",
+    "currency": "monqol tögrög",
+    "area": "1564110.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "monqol"
+    ],
+    "population": 3278292,
+    "imgName": "mongolia"
+  },
+  {
+    "name": "Trinidad və Tobaqo",
+    "capitalNames": [
+      "İspaniya limanı"
+    ],
+    "gdp": "$23,994M",
+    "gdpPerCapita": "$15,727",
+    "currency": "Trinidad və Tobaqo dolları",
+    "area": "5130.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 1399491,
+    "imgName": "trinidad_and_tobago"
+  },
+  {
+    "name": "Yəmən",
+    "capitalNames": [
+      "Səna"
+    ],
+    "gdp": "$21,062M",
+    "gdpPerCapita": "$639",
+    "currency": "Yəmən rialı",
+    "area": "527968.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "ərəb"
+    ],
+    "population": 29825968,
+    "imgName": "yemen"
+  },
+  {
+    "name": "Panama",
+    "capitalNames": [
+      "Panama şəhəri"
+    ],
+    "gdp": "$63,605M",
+    "gdpPerCapita": "$14,618",
+    "currency": "Panama balboası",
+    "area": "75417.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 4314768,
+    "imgName": "panama"
+  },
+  {
+    "name": "Tayvan",
+    "capitalNames": [
+      "Taypey"
+    ],
+    "gdp": "$774,728M",
+    "gdpPerCapita": "$33,143",
+    "currency": "Yeni Tayvan dolları",
+    "area": "36193.0",
+    "region": "Asiya",
+    "subRegion": "Şərqi Asiya",
+    "languages": [
+      "çinli"
+    ],
+    "population": 23503349,
+    "imgName": "taiwan"
+  },
+  {
+    "name": "Kipr",
+    "capitalNames": [
+      "Nikosiya"
+    ],
+    "gdp": "$28,443M",
+    "gdpPerCapita": "$31,439",
+    "currency": "avro",
+    "area": "9251.0",
+    "region": "Avropa",
+    "subRegion": "Cənubi Avropa",
+    "languages": [
+      "yunan",
+      "türk"
+    ],
+    "population": 1207361,
+    "imgName": "cyprus"
+  },
+  {
+    "name": "Dominika",
+    "capitalNames": [
+      "Roseau"
+    ],
+    "gdp": "$554M",
+    "gdpPerCapita": "$7,653",
+    "currency": "Şərqi Karib dolları",
+    "area": "751.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 71991,
+    "imgName": "dominica"
+  },
+  {
+    "name": "Sent Vinsent və Qrenadinlər",
+    "capitalNames": [
+      "Kingstown"
+    ],
+    "gdp": "$904M",
+    "gdpPerCapita": "$8,667",
+    "currency": "Şərqi Karib dolları",
+    "area": "389.0",
+    "region": "Amerika",
+    "subRegion": "Karib dənizi",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 110947,
+    "imgName": "saint_vincent_and_the_grenadines"
+  },
+  {
+    "name": "Myanma",
+    "capitalNames": [
+      "Naypyidaw"
+    ],
+    "gdp": "$65,092M",
+    "gdpPerCapita": "$1,210",
+    "currency": "Birma kyatı",
+    "area": "676578.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "birma"
+    ],
+    "population": 54409794,
+    "imgName": "myanmar"
+  },
+  {
+    "name": "Çad",
+    "capitalNames": [
+      "N'Djamena"
+    ],
+    "gdp": "$11,780M",
+    "gdpPerCapita": "$686",
+    "currency": "Mərkəzi Afrika CFA frankı",
+    "area": "1284000.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "ərəb",
+      "Fransız dili"
+    ],
+    "population": 16425859,
+    "imgName": "chad"
+  },
+  {
+    "name": "Qazaxıstan",
+    "capitalNames": [
+      "Nur-Sultan"
+    ],
+    "gdp": "$197,112M",
+    "gdpPerCapita": "$10,306",
+    "currency": "Qazaxıstan tengesi",
+    "area": "2724900.0",
+    "region": "Asiya",
+    "subRegion": "Orta Asiya",
+    "languages": [
+      "qazax",
+      "rus"
+    ],
+    "population": 18754440,
+    "imgName": "kazakhstan"
+  },
+  {
+    "name": "Gürcüstan",
+    "capitalNames": [
+      "Tbilisi"
+    ],
+    "gdp": "$18,696M",
+    "gdpPerCapita": "$5,014",
+    "currency": "lari",
+    "area": "69700.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "gürcü"
+    ],
+    "population": 3714000,
+    "imgName": "georgia"
+  },
+  {
+    "name": "Mikroneziya",
+    "capitalNames": [
+      "Palikir"
+    ],
+    "gdp": "$404M",
+    "gdpPerCapita": "$3,571",
+    "currency": "ABŞ dolları",
+    "area": "702.0",
+    "region": "Okeaniya",
+    "subRegion": "Mikroneziya",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 115021,
+    "imgName": "micronesia"
+  },
+  {
+    "name": "Kosta Rika",
+    "capitalNames": [
+      "San Xose"
+    ],
+    "gdp": "$64,417M",
+    "gdpPerCapita": "$12,436",
+    "currency": "Kosta Rika kolonu",
+    "area": "51100.0",
+    "region": "Amerika",
+    "subRegion": "Mərkəzi Amerika",
+    "languages": [
+      "ispan dili"
+    ],
+    "population": 5094114,
+    "imgName": "costa_rica"
+  },
+  {
+    "name": "Madaqaskar",
+    "capitalNames": [
+      "Antananarivo"
+    ],
+    "gdp": "$14,473M",
+    "gdpPerCapita": "$501",
+    "currency": "Malaqas ariarisi",
+    "area": "587041.0",
+    "region": "Afrika",
+    "subRegion": "Şərqi Afrika",
+    "languages": [
+      "Fransız dili",
+      "malaqas"
+    ],
+    "population": 27691019,
+    "imgName": "madagascar"
+  },
+  {
+    "name": "Qvineya",
+    "capitalNames": [
+      "Konakri"
+    ],
+    "gdp": "$16,092M",
+    "gdpPerCapita": "$1,189",
+    "currency": "Qvineya frankı",
+    "area": "245857.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 13132792,
+    "imgName": "guinea"
+  },
+  {
+    "name": "Türkiyə",
+    "capitalNames": [
+      "Ankara"
+    ],
+    "gdp": "$817,508M",
+    "gdpPerCapita": "$9,654",
+    "currency": "türk lirəsi",
+    "area": "783562.0",
+    "region": "Asiya",
+    "subRegion": "Qərbi Asiya",
+    "languages": [
+      "türk"
+    ],
+    "population": 84339067,
+    "imgName": "turkey"
+  },
+  {
+    "name": "Fil Dişi Sahili",
+    "capitalNames": [
+      "Yamoussoukro"
+    ],
+    "gdp": "$70,043M",
+    "gdpPerCapita": "$2,549",
+    "currency": "Qərbi Afrika CFA frankı",
+    "area": "322463.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "Fransız dili"
+    ],
+    "population": 26378275,
+    "imgName": "cote_d_ivoire"
+  },
+  {
+    "name": "Vyetnam",
+    "capitalNames": [
+      "Hanoy"
+    ],
+    "gdp": "$366,201M",
+    "gdpPerCapita": "$3,757",
+    "currency": "Vyetnam đồng",
+    "area": "331212.0",
+    "region": "Asiya",
+    "subRegion": "Cənub-Şərqi Asiya",
+    "languages": [
+      "vyetnamlı"
+    ],
+    "population": 97338583,
+    "imgName": "vietnam"
+  },
+  {
+    "name": "Cape Verde",
+    "capitalNames": [
+      "Praia"
+    ],
+    "gdp": "$1,936M",
+    "gdpPerCapita": "$3,293",
+    "currency": "Kape Verde eskudosu",
+    "area": "4033.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 555988,
+    "imgName": "cape_verde"
+  },
+  {
+    "name": "Qambiya",
+    "capitalNames": [
+      "Banjul"
+    ],
+    "gdp": "$2,038M",
+    "gdpPerCapita": "$772",
+    "currency": "dalası",
+    "area": "10689.0",
+    "region": "Afrika",
+    "subRegion": "Qərbi Afrika",
+    "languages": [
+      "İngilis dili"
+    ],
+    "population": 2416664,
+    "imgName": "gambia"
+  },
+  {
+    "name": "San-Tome və Prinsipi",
+    "capitalNames": [
+      "San-Tome"
+    ],
+    "gdp": "$527M",
+    "gdpPerCapita": "$2,361",
+    "currency": "San-Tome və Prinsipe dobra",
+    "area": "964.0",
+    "region": "Afrika",
+    "subRegion": "Orta Afrika",
+    "languages": [
+      "portuqal"
+    ],
+    "population": 219161,
+    "imgName": "sao_tome_and_principe"
+  }
+]
